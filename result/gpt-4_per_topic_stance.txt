@@ -1,0 +1,794 @@
+0
+topic:
+Assisted suicide should be a criminal offence
+stance:
+positive:
+[
+"A cure or treatment may be discovered shortly after having ended someone's life unnecessarily", 
+"Allowing assisted suicide could enable unscrupulous people to become serial killers", 
+"Allowing assisted suicide could enable greedy relatives to take advantage of ill relatives for their own financial gain", 
+"An assisted suicide is just another way to murder a person, regardless of consent", 
+"Reasonable certainty cannot be defined, there have been cases where evicted patients regained health due to alternative treatment or medical advances",  
+"Assisted suicide could be misused by those who want their weaker partner to die", 
+"Assisted suicide goes directly against the oath taken by doctors to do no harm", 
+"Assisted suicide is equivalent to murder and should be treated as such", 
+"Assisted suicide should be a criminal offence because after they are dead no one will know what actually happened whether it was assisted suicide or if it was murder", 
+"Assisted suicide should be a criminal offence because it could force some doctors to perform this act without their consent", 
+"If not considered a criminal offence, it could encourage murder under the guise of assisted suicide that would be difficult to prove", 
+"Legalising assisted suicide may cause undue stress on other people with terminal illness, making them wonder if they are a burden to their family and friends"
+]
+negative:
+["People should have the right to choose ending their suffering when faced with debilitating conditions and terminal illnesses.", 
+"Assisted suicide can provide a peaceful and dignified departure for those with no hope of recovery.",
+"Assisted suicide should not be criminalized as it can be a compassionate act for those suffering from severe pain, giving them control over their life and death.", 
+"A person should have the right to decide when they have had enough 'care' and should have the right to end their own suffering.",
+"Assisted suicide allows terminally ill individuals to pass away with dignity and prevent prolonging of unnecessary pain and distress.", 
+"Assisted suicide permits a person to practice their right to die on their own terms and in their own time.", 
+"It is inhumane to force someone to live with terminal pain, assisted suicide may be the only relief from suffering.",
+"If a person has no potential of recovering from an illness and endures excessive pain, assistance in suicide ought not to be seen as a criminal act but as empathy.", 
+"Assisted suicide is a personal choice that aligns with the principle of autonomy in one's life, and, as such, it should only be penalized when abused or manipulated.", 
+"Legalizing assisted suicide could potentially offer a safer environment for those considering it, ensuring the act is carried out humanely and professionally."]
+
+1
+topic:
+Homeschooling should be banned
+stance:
+positive:
+["Homeschooling can close off kids from creating relationships with peers", "Parents may not be qualified to provide the most effective education", "Homeschooling is often unregulated, ensuring the quality of education can be challenging", "Homeschooling may allow parents with extreme views to indoctrinate their children", "Homeschooling can lead to avoidance of diverse viewpoints, detrimentally affecting social development", "Homeschooling can sometimes be a cover for abuse and neglect", "Homeschooled children may miss out on important social interaction that schools provide", "Homeschooling may not prepare children adequately for real-world challenges", "Homeschooling is often criticised for isolating children and depriving them of normal social life", "Homeschooling may deprive children of essential exposure to a variety of people and experiences", "Homeschooling could lead to educational gaps as it's reliant on parents' knowledge", "Homeschooling might not encourage strong social skills needed in adulthood."]
+negative:
+["Parents have the right to choose their child's education method.", 
+"Homeschooling allows personalized and tailored education.", 
+"Homeschooling ensures a safe and comfortable learning environment away from bullying and violence.", 
+"Homeschooling can be beneficial for students with special needs or learning disabilities.", 
+"Homeschooling can lead to better test scores and academic performance.", 
+"Homeschooling can offer more one-on-one attention than a traditional classroom setting.", 
+"In rural communities or families with financial constraints, homeschooling can be the only feasible educational method.", 
+"Homeschooling is a viable alternative for children who suffer in crowded and distracting school environments.", 
+"Homeschooling can help children who have been subjected to bullying and trauma in regular schools.", 
+"Homeschooling grants parents flexibility in teaching critical topics and eliminating unnecessary curriculum.", 
+"Homeschooling enables the child to learn at their pace and level.", 
+"Homeschooling can be beneficial for distressed/ troubled children who struggle with traditional school environments."]
+
+2
+topic:
+The vow of celibacy should be abandoned
+stance:
+positive:
+["Vow of celibacy is considered outdated and not suitable for modern society", 
+"Vow of celibacy limits the freedom of priests and makes them less relatable to normal people", 
+"Celibacy can deter potentially talented individuals from joining the clergy", 
+"Some believe celibacy contributes to the issues of sexual abuse within religious groups", 
+"Celibacy may impose an unnatural restriction on individuals, leading to emotional and psychological issues", 
+"There is a belief that abandoning celibacy could help increase the number of men joining priesthood", 
+"The vow of celibacy is believed to go against human nature and could lead to inappropriate actions",
+"Celibacy could be causing more harm than good – causing individuals to seek release in harmful ways", 
+"Celibacy has been tied to destructive temptation in clergy and issues within relationships", 
+"Some argue that there's nothing in religious scriptures mandating celibacy", 
+"Adhering to celibacy can put undue pressure on individuals, making it difficult to maintain",
+"Some believe that the vow of celibacy is more of a distraction rather than a virtue"].
+negative:
+[
+"Vow of celibacy is a personal choice and an expression of individual's faith and commitment to God.",
+"Celibacy promotes self-awareness, discipline and allows a person for greater dedication to spiritual work.",
+"Celibacy could prevent unwanted pregnancies and sexually transmitted diseases.",
+"The vow of celibacy keeps individuals focused on important issues rather than just their personal life.",
+"With celibacy, a religious individual can fully focus on serving the congregation, removing distractions like relationships and family issues.",
+"Celibate life is perceived as a sacrifice and proof of a person's commitment to their faith.",
+"The vow of celibacy is seen as a traditional cornerstone of the Church that should not be abandoned.",
+"Respecting the vow of celibacy is respecting religious freedom. Each religion and its customs and rules should be respected.",
+"Celibacy can be empowering in the right situation, promoting self control and purity.",
+"Celibacy can be seen as an important test of a person's moral fortitude.",
+"Celibacy allows priests to concentrate solely on their god and parish, offering better spiritual service.",
+"It's a way for individuals to avoid emotional distraction, focusing the mind on higher aspects or purpose."
+]
+
+3
+topic:
+We should abandon marriage
+stance:
+positive:
+["Marriage has roots in outdated patriarchal values",
+ "Marriage is a costly ceremony that often contributes to financial hardship",
+ "Divorce rates are increasingly high, questioning the lifetime commitment aspect of marriage",
+ "Marriage is not necessary in a modern society where other legal arrangements are available",
+ "Marriage often extends the duration of unhealthy relationships due to fear of stigma associated with divorce",
+ "Marriage is seen as a way for the government to unnecessarily intervene in personal relationships",
+ "Many argue that marriage is an outdated societal construct, not adapting to modern times",
+ "Marriage does not guarantee or define the love or commitment between a couple",
+ "Many encounters in marriage, including legal, financial, and social obligations can be burdensome",
+ "The costly nature of divorces further complicates matters, adding extra financial stress",
+ "Some argue that marriage was originally intended as a trade or business arrangement rather than for love",
+ "There is a growing trend of people preferring cohabitation to marriage, suggesting that the institution of marriage is becoming less relevant"]
+negative:
+[
+"Children from stable marriages tend to be more well adjusted",
+"Marriage provides a healthy environment for children and contributes to their overall mental well-being",
+"Marriage signifies commitment and stability, enriching the lives of both individuals and their offspring",
+"Despite high rates of divorce, married couples and their children exhibit signs of emotional health and stability more than their unmarried counterparts",
+"Marriage provides legal advantages, such as the right to obtain medical information about a spouse and access to healthcare benefits",
+"Marriage engrains a deep sense of commitment in individuals and signifies a bond of unity",
+"The familial structure grounded in marriage has been a basis for society, protecting and nourishing it",
+"Marriage holds religious significance and offers individuals a path to adhere to their faith",
+"Marriage harbors high emotional value and fulfills humans' innate desire for companionship and love",
+"Marriage provides a legal framework that simplifies inheritance and benefit arrangements",
+"Marriage is a personal choice that allows individuals to express their commitment towards each other",
+"Marriage offers both social and financial benefits to the individuals involved"
+]
+
+4
+topic:
+We should abandon the use of school uniform
+stance:
+positive:
+[
+"A real education is about giving students the tools to learn. School uniforms send a message that we do not trust students to think on their own.",
+"School uniforms stifle freedom of expression and individuality.",
+"Uniforms can create financial burdens on families, as they are often overpriced.",
+"Uniform policies can create an additional cost, compromising free public school education.",
+"Uniforms might prevent students from feeling comfortable which can affect their performance in school.",
+"Uniforms potentially uphold and perpetuate sexist stereotypes and restrict gender expression.",
+"Uniforms fail to decrease the amount of violence or behavioral issues within schools.",
+"Enforcing school uniforms can create an authoritarian atmosphere in schools, which is detrimental for students' development.",
+"Uniforms do not reflect contemporary fashion choices and can be considered outdated.",
+"Uniforms could potentionally blur the differences between pupils, instead of celebrating their diversity and encouraging self-expression.",
+"The requirement for school uniforms might impose unnecessary pressure on single parents or families from disadvantaged backgrounds."
+]
+negative:
+["School uniforms reduce bullying as they prevent style-based teasing", "Uniforms instill discipline among students", "Use of school uniforms is cost-effective for parents", "Uniform-wearing students tend to be more focused on academics", "School uniforms minimize wealth and lifestyle disparities among students", "Uniforms limit clothing-based peer pressure", "School uniforms can encourage school pride", "Uniforms foster a sense of community among students", "Uniforms can help parents save money on clothing", "School uniforms prevent the sexualization of students", "Wearing uniforms can deter crime and increase student safety", "Uniforms can alleviate the stress of selecting daily school outfits."]
+
+5
+topic:
+We should abolish capital punishment
+stance:
+positive:
+["Capital punishment contradicts the state's stance against murder, leading to hypocrisy.",
+ "Death penalty perpetuates the cycle of violence and does not promote a peaceful society.",
+ "There's a risk of killing innocent individuals due to flaws within the justice system.",
+ "Capital punishment infringes on human rights and is deemed inhumane by many.",
+ "More humane and equally severe alternatives such as life without parole are available.",
+ "Death penalty does not effectively deter violent crimes.",
+ "Justice system flaws and biases can lead to unfair application of capital punishment.",
+ "Capital punishment interferes with the potential for new pieces of evidence or reformation of the individual.",
+ "Economic burdens on taxpayers due to capital punishment can be resolved by abolition.",
+ "There are numerous instances where innocent people have been wrongfully executed.",
+ "The death penalty does not reduce crime rates, rendering it ineffective as a punishment.",
+ "Capital punishment lacks morality as it involves the state-sanctioned taking of a human life."]
+negative:
+["A basic principle of punishment is that it should be proportional to the crime.",
+"Abolishing capital punishment means the victims' families will pay their taxes to support offenders.",
+"As the state can legitimately wield the use of force, it has an obligation to seek retribution against criminals.",
+"Capital punishment can act as a deterrent preventing potential criminals from committing heinous crimes.",
+"Capital punishment can provide closure for victims' families.",
+"By executing a criminal, we ensure they cannot commit any further crimes.",
+"Capital punishment is cost-effective, considering the expenses incurred for lifetime imprisonment.",
+"Some crimes are so heinous that the only just response is capital punishment.",
+"Abolishing capital punishment can lead to an increase in crime rates.",
+"Capital punishment provides justice proportional to the crime committed.",
+"The threat of capital punishment can foster better behaviour.",
+"With advancements in forensic analysis, we can eliminate uncertainty in capital punishment cases."]
+
+6
+topic:
+We should abolish intellectual property rights
+stance:
+positive:
+["Abolishing intellectual property rights allows for greater access to information and resources.", 
+"Intellectual property rights hinder progress by preventing the development and improvement of certain projects by other people.", 
+"Art and creativity can arguably be enhanced without the constraints of intellectual property rights.", 
+"Many argue that ideas and thoughts cannot and should not be owned or regulated.", 
+"Intellectual property rights are seen to support monopolies and restrict the free market, especially benefiting large corporations.", 
+"Intellectual property rights are argued to be a significant barrier to innovation.", 
+"Enforcement of intellectual property rights is difficult and expensive, making them impractical.", 
+"Intellectual property rights can prevent access to the arts and educational material due to high costs.", 
+"Some believe intellectual property rights slow technological progress by restricting access to new information.", 
+"Intellectual property rights can lead to lawsuits and legal complications, wasting resources.",
+"The concept of intellectual property is considered by some to be too vague and inhibits creativity.",
+"Abolitionists of intellectual property rights argue that aggressive enforcement can limit competition and innovation."]
+negative:
+["Intellectual property rights provide inventors and innovators the permission to profit from their original ideas, thereby encouraging creativity.",
+ "Abolishing intellectual property rights would lead to a loss of financial motivation to innovate, subsequently damaging the economy and reducing progress.",
+ "Intellectual property rights allow individuals and businesses to control the use of their creations, preventing unauthorized replication and distribution.",
+ "If intellectual property rights are abolished, there would be a higher risk of plagiarism, reducing the originality of content across various fields.",
+ "Intellectual property rights protect artists, authors, researchers, and companies from unlawful exploitation of their work, which is crucial to their financial survival.",
+ "The abolition of intellectual property rights might deter inventors and creators, realising their ideas could be stolen without any legal recourse, reducing their incentive from the outset.",
+ "Intellectual property rights help ensure a competitive market by protecting businesses and their unique products, indirectly benefiting consumers by promoting diversity and quality in the marketplace.",
+ "Just like physical property rights, intellectual property rights help secure the claims and interests of individuals over non-tangible assets. These rights should hence be respected and protected similarly.",
+ "Intellectual property rights safeguard the time, money, and effort invested in creating and developing new goods and services, preventing others from profiting from this without compensation.",
+ "Eliminating intellectual property rights would likely slow the pace of technological and artistic advancements, as incentives to invest in research and development initiatives would diminish.",
+ "In a world where intellectual property rights are non-existent, there's an inherent risk of a decrease in original ideas as individuals may choose not to share their ideas over fear of theft.",
+ "Intellectual property rights serve a fundamental role in fostering and driving innovation and scientific exploration, in turn contributing to societal growth."]
+
+7
+topic:
+We should abolish the right to keep and bear arms
+stance:
+positive:
+["Arms in the hands of bad persons pose a threat to society", "Current arms were not present when the bill of rights was written, which are dangerous and primarily used against others", "Right to bear arms risks random killings", "Banning the right might reduce violent crime", "Allowing guns to citizens increases the risk of them being stolen by criminals", "Countries with stricter gun laws have fewer homicides and suicides", "Abolishing the right can mitigate domestic accidents with guns", "Gun ownership has led to numerous mass shootings", "Abolishing right to bear arms would reduce accidental gun deaths", "Gun violence is disproportionately higher in countries where right to bear arms is practiced", "This right is considered outdated and not compatible with the current scenario", "Many innocent lives lost due to financial accessibility of guns"]
+negative:
+["Abolishing the right to bear arms can make innocent people defenseless against criminals", 
+"The right to bear arms is a form of self-defense for citizens against criminals and slow police response",
+"Guns serve a purpose in rural communities with wildlife pests", 
+"Right to bear arms is constitutionally protected and should not be abrogated",
+"Outlawing guns will primarily affect lawful owners, giving undue advantage to criminals",
+"Potentially untraceable illegal weapons in hands of criminals would be a major concern in the absence of right to bear arms",
+"The right to bear arms is a deterrent against government tyranny",
+"It's an individual's right to bear arms for personal safety and liberty",
+"Abolishing the right to bear arms would undermine the importance of other fundamental rights in the constitution",
+"People living in remote areas need the right to keep and bear arms for their protection due to delayed police response",
+"Disarming the public could entice abusive government power",
+"Citizens should have the right to own guns for the purpose of hunting, sport and self-defense."]
+
+8
+topic:
+We should adopt an austerity regime
+stance:
+positive:
+["Adopting an austerity regime is necessary when our country is struggling to ensure a flourishing future economy", 
+"An austerity regime is the best way for the country to reduce its huge debt", 
+"Austerity regime would reduce government debt", 
+"All services have to be paid for, once debts have been reduced, more money will be available for these services", 
+"Austerity regime allows the country to save money and to reduce the national debt", 
+"An austerity regime can help restructure a country's debt without increasing the deficit", 
+"Austerity regime is a necessary remedy for decades of economic profligacy",
+"Austerity regime is necessary for our country's economy, it aids in balancing an exploding budget", 
+"Austerity regime is very important during economically stressful times", 
+"Austerity region is necessary when government funds are low so savings can be made",
+"Austerity regime is a necessary remedy for fortifying strong economies and preventing global collapse", 
+"If the country's debt is not sustainable an austerity regime becomes necessary for recovery."]
+negative:
+["Adoption of an austerity regime can potentially slow economic growth.", 
+"Austerity may negatively impact the demand side of the economy, hampering economic progress.", 
+"Austerity regimes tend to increase unemployment and hurt the poorest sections of society.",
+"The implementation of an austerity regime can lead to a reduction in funding for necessary social programs.",
+"The austerity regime could hurt those least able to cope, such as the poor and the sick.",
+"Increased taxes due to austerity can leave hardworking citizens with less disposable income.",
+"Austerity regime can create new problems rather than solving existing ones.",
+"Austerity actions during financial instability can negatively impact people who depend on social programs.",
+"Adoption of the austerity regime can potentially reduce consumer spending and demand.",
+"Austerity regimes can lead to a decrease in available jobs and result in economic stagnation.",
+"The burden of austerity mainly falls on those least able to cope- the poor and the sick."]
+
+9
+topic:
+We should adopt atheism
+stance:
+positive:
+["Adopting atheism can help reduce senseless wars attributed to religion.", 
+"Atheism theoretically promotes inclusivity and eliminates discrimination based on religious differences.", 
+"With atheism, an individual's motivation to be good is not driven by the desire to attain heavenly rewards.", 
+"The adoption of atheism would place more emphasis on science, factual information, and rational thought.",
+"Atheism promotes focusing on improving the quality of life on Earth rather than relying on the notion of an afterlife.", 
+"Adopting atheism could potentially lead to fewer conflicts caused by religious intolerance.", 
+"Atheism supports the development of critical thinking and intellectual growth.", 
+"The adoption of atheism suggests that everyone would be treated equally.", 
+"Atheists, generally not fearing divine judgement, are at liberty to live life more freely.", 
+"Atheism could reduce the manipulative power that religious institutions may exercise over believers.", 
+"Adopting atheism may lead to decrease in religious imposition on lawmaking and politics.", 
+"Adopting atheism as a societal norm would eliminate religious biases and conflicts."]
+negative:
+["A large majority of the world believes in God in some form so adopting atheism goes against majority belief", "Adopting atheism infringes upon people's first amendment right to freedom of religion", "Adopting atheism can eradicate one's moral principles, tradition, and cultural beliefs", "Atheism doesn't account for our moral values and often undermines them", "Atheism can lead to destructive behaviours as there is no code of ethics or religious guidance to live by", "Adopting atheism disregards the faith and traditions carried on through generations", "Atheism could potentially eradicate the freedom of worship guaranteed in many countries", "The belief in God or Gods provides peace and purpose for some, atheism does not", "Adopting atheism might foster negative values in human beings", "Turning to atheism would deny people's right to the freedom of religion", "Adopting atheism could be perceived as a violation of religious freedom", "Many people depend on religion for mental health support, adopting atheism could increase mental health issues."]
+
+10
+topic:
+We should adopt libertarianism
+stance:
+positive:
+[
+"A libertarian government would provide much-needed resources for lower classes.",
+"A libertarian system ensures that a person is free to act as they please, given their actions do not infringe on others' rights.",
+"Adopting libertarianism would allow the economy to grow by removing rules and regulations restraining businesses and entrepreneurs.",
+"Libertarianism promotes individual rights acceptance, fostering a more inclusive society.",
+"Libertarianism promotes freedom and liberty for all to prevent tyranny and oppression.",
+"Less government intervention implies more freedom of choice for individuals.",
+"Libertarianism implies a reduction in government interference in daily life, potentially minimizing government spending.",
+"Adopting libertarianism would maximize freedom for both individuals and corporations.",
+"A belief in libertarianism facilitates the protection of citizens' rights in the country.",
+"Libertarians' neutral and non-interventionist foreign policies could help avoid wars with other nations.",
+"Adopting libertarianism would reduce government control and increase liberties that have been stifled by the governing body.",
+"Libertarianism ensures personal growth and survival of the fittest, rewarding the most deserving with power."
+]
+negative:
+["Adopting libertarianism may lead to an increase in crime and violence due to reduced oversight and public services.",
+"Libertarianism might result in more social and economic disparity, particularly hurting the poor and disadvantaged.",
+"Without government regulations, consumer protection in the marketplace could drastically decrease.",
+"Libertarianism would do away with government assistant programs, leaving vulnerable populations at more risk.",
+"Adoption of libertarianism may disregard the historical obligation and needs of systematically marginalized communities.",
+"The belief in individual rights over the common good may lead to societal chaos and potential harm to others.",
+"Libertarianism lacks a cohesive structure and acceptance by the majority, making its implementation difficult.",
+"Under libertarianism, public needs that can be better addressed through collective action could be neglected, leading to inefficiencies.",
+"Dangerous and uninformed decisions could be made if too much power is given to individuals without enough checks and balances.",
+"Libertarianism could lead to the destruction of state-run programs that many people rely on, like education, healthcare, and safety.",
+"The implementation of libertarianism could potentially harm the environment due to the lack of protective regulations.",
+"Adopting libertarianism could inadvertently create a society more focused on self-interest rather than the collective good."]
+
+11
+topic:
+We should ban human cloning
+stance:
+positive:
+["Human cloning could potentially cause developmental problems due to imperfections in the cloning process", 
+"Human cloning could lead to genetic confusion and future mutations",
+"It is argued that human cloning is unethical and unnatural",  
+"Human cloning could compromise individuality and create duplicated identities", 
+"Allowing human cloning could lead to the creation of 'designer humans', compromising human diversity",
+"Human cloning could adversely devalue human life, as a 'perfected' clone may be deemed preferable",
+"It's suggested that human cloning could cause genetic abnormalities, and currently science lacks complete knowledge about genes to prevent catastrophic mutations",
+"Human cloning is viewed as controversial and against religious ethics", 
+"Human cloning could lead to a restricted gene pool, reduced genetic diversity and promoting recessive traits", 
+"Some argue that human cloning could inadvertently spread incurable diseases due to cell contamination", 
+"Human cloning could create a potential danger of creating 'armies' of individuals, allowing enhanced control and possibly leading to dictatorships", 
+"Allowing human cloning could lead to the unnatural act of manufacturing humans for superiority, resembling a form of playing god"].
+negative:
+["Advancement in cloning can lead to beneficial experimentation", 
+"Human cloning could be instrumental to organ transplants",
+"Human cloning may result in medical breakthroughs for disease treatment", 
+"Cloning might not necessarily mean whole people - it could mean lifesaving organ cloning", 
+"Cloning can address the issues of infertility and advance genetic science",
+"Cloning would lead to medical advancements in genetic diseases", 
+"Human Cloning could prevent passing down of defective genes",
+"Human Cloning can bring multiple benefits to Medical research",
+"Reproduction of certain organ parts could save lives of critically ill patients",
+"Organ and limb cloning can enable disability persons to live healthier lives",
+"There are strict regulations to handle ethical issues related to human cloning",
+"Heathly gene selection can be benefical with human cloning."]
+
+12
+topic:
+We should ban private military companies
+stance:
+positive:
+["A private company's main interest is profit which may lead to bad practices or corruption",
+"Private military companies can jeopardize national security",
+"There are potential inconsistencies when private military companies work together",
+"Private military companies could develop militias and gather weapons leading to potential dangers",
+"They can put their employees at unnecessary risk", 
+"The motive behind private military companies is profit, not national security", 
+"Private military forces may pose a threat to current governments",
+"Lack of effective oversight could lead to abuse of locals by private military companies", 
+"Different standards among private military companies could result in deviations from universally accepted regulations",
+"These companies allow individuals with money to purchase their own armies, bypassing national and international regulations",
+"Private military companies operate on profit which may lead to actions that disregard the safety and peace of the general public",
+"They pose a threat to democracy as they are not regulated properly."]
+negative:
+["Private military companies can streamline operations and save finances compared to government-owned entities.", 
+"Banning private military companies violates principles of free markets.", 
+"Private military companies drive innovation and exploration of technology and weapons.", 
+"They can provide critical additional support during potential attacks.", 
+"Employing private military companies keeps government army personnel out of certain danger zones.", 
+"Private military companies can provide additional security and reassurance to countries with lesser military might.", 
+"They fill in gaps for countries lacking sufficient military forces, offering specialized skills.", 
+"Private military companies can operate more swiftly and covertly than governmental troops.", 
+"They can undertake assignments that government military may be restricted by law from doing.", 
+"As a commercial business, private military companies can help save government defence budget.", 
+"Such companies can provide armed protection to people or entities that may lack it.", 
+"The existence of these companies ensures jobs and contributes to the economy."]
+
+13
+topic:
+We should ban the use of child actors
+stance:
+positive:
+["Acting can deprive children of their childhood by putting undue pressure and stress on them",
+"Child actors can be exposed to abusive situations, both mentally and sexually, which can impact their normal development", 
+"Child acting can lead to exploitation by the film industry, parents, and other adults for financial gain", 
+"Acting can force children into adult situations, exposing them to harmful habits like drugs and alcohol", 
+"Working as child actors can interfere with their education and normal childhood pursuits", 
+"Children are often unable to fully comprehend the decision of acting, making them vulnerable to manipulation", 
+"Child actors are often subjected to overwork which can lead to physical, emotional, and academic problems", 
+"Entering into fame at a young age can cause various future issues like mental health problems and substance abuse", 
+"Child actors may be exposed to adult content early on which can lead to their hyper-sexualization",
+"Working as actors may hinder their socialization process, leading to issues in their later social interactions", 
+"There are significant risks of the acting industry exploiting children, thus, they need protection.",
+"Acting at a young age can force children into premature adulthood, consequently, cracking down on their innocence and normal upbringing."]
+negative:
+["Child actors are needed for many roles in the television and movie industry",
+ "Banning child actors would impose serious limitations on the entertainment industry",
+ "Acting at a young age gives a child experience, confidence, and financial benefits for later life",
+ "As long as child actors are protected and monitored, their participation in the acting industry should be allowed",
+ "The decision should be between parents and children, the government should not get involved",
+ "Prohibiting child actors would be denying many talented young individuals from showcasing their abilities",
+ "Acting exposes children to a variety of people and places, giving them valuable life experience they would not receive otherwise",
+ "Child actors can build lifelong skills and follow their dreams",
+ "Many great actors of today started as children and had no negative impact on their growth",
+ "If a child enjoys acting and is properly supervised, they should be allowed to pursue it",
+ "Child actors contribute to industry revenue and bringing characters to life",
+ "If used responsibly, child actors can add depth and authenticity to film and TV productions"]
+
+14
+topic:
+We should close Guantanamo Bay detention camp
+stance:
+positive:
+["Guantanamo Bay detention camp violates human rights of detainees and undermines U.S. authority on human rights issues", "The camp operates outside U.S. law and undermines American institutions", "Closing it would end its use as a recruitment tool by terrorists", "The camp history involves abuses violating human rights", "Guantanamo Bay detention camp uses questionable tactics to extract information", "The camp is a financial burden on U.S., costing millions of dollars", "The camp is synonymous with torture and flagrant abuse of human rights", "Its existence stains the reputation of the United States worldwide", "Guantanamo Bay detention camp infringes human rights", "Closing the camp would help end its function as a symbol for Muslim discrimination and oppression", "Its existence gives the United States permission to break the rules of the Geneva Convention", "Guantanamo Bay detention camp is outdated, no longer serves its original purpose and other military prisons available can be utilized."]
+negative:
+["Closing Guantanamo Bay would risk safety as more terrorists could run free", "Detainees might be sent to worse conditions in supermax prisons", "Closing Guantanamo could be seen as a concession and empower terrorists", "Keeping terrorists at Guantanamo Bay prevents future attacks", "Detention at Guantanamo keeps terrorists off the battlefield and limits their abilities to recruit and plan", "Guantanamo Bay provides vital intelligence for national security", "Detention camp houses dangerous criminals and is well-guarded", "Closing Guantanamo could risk national protection and stop terrorism", "Guantanamo Bay allows for secure isolation and interrogation of dangerous terrorists", "Guantanamo Bay is a powerful deterrent for crimes against America", "Guantanamo Bay operates in accordance with international legal standards", "Closing Guantanamo could lead to spreading of terrorist ideology in general prison populations"]
+
+15
+topic:
+We should end affirmative action
+stance:
+positive:
+["Affirmative action may breed resentment towards previously discriminated groups",
+ "Can be seen as discriminatory against certain groups such as economically disadvantaged whites",
+ "May lead to less qualified individuals securing positions over more qualified individuals",
+ "Potentially undermines merit-based success and opportunities",
+ "Could be viewed as reverse discrimination and excludes skilled workers outside of minority groups",
+ "May reduce incentive for minorities to achieve top grades as there are guaranteed opportunities regardless",
+ "Does not treat all races equally",
+ "Perceived as offering advantages to less qualified individuals at the expense of more qualified ones",
+ "May force employers to hire based on race or gender rather than skill or qualifications",
+ "Could be seen as irrelevant in modern society where previous suppressions no longer exist",
+ "Possibly supports the undeserving based on personal attributes unrelated to the job",
+ "May create rather than dissolve discrimination by affording certain groups advantages over others."]
+negative:
+["Affirmative action ensures fair representation across all sectors of society",
+ "It offers minorities a chance in competitive job markets by levelling the playing field",
+ "Affirmative action promotes diversity in the workplace which can lead to creativity and flexibility",
+ "The practice serves to rectify past injustices by offering opportunities to those who may otherwise be overlooked",
+ "Not ending affirmative action is essential to maintaining an integrated, diverse work force and student population",
+ "Affirmative action helps combat racism by forcing institutions to consider applicants of diverse backgrounds",
+ "Ending affirmative action may lead to resurge of hard-to-detect, subconscious bias and discrimination",
+ "For some that do not have the same advantages growing up, affirmative action provides the necessary aid to succeed",
+ "Affirmative action is a crucial tool to give everyone a chance to succeed in society and should not be abandoned",
+ "The program offers opportunities to lower class groups to uplift their financial status and improve their lot",
+ "Affirmative action is still required to correct institutional discrimination and protect minorities."]
+
+16
+topic:
+We should end mandatory retirement
+stance:
+positive:
+["Older workers often bring extensive experience and institutional knowledge",
+"Mandatory retirement dismisses the rights of the elderly to work if they choose to",
+"Mandatory retirement can lead to a drain in skills and expertise in various professions",
+"The removal of mandatory retirement can reduce strain on public welfare systems like social security",
+"Mandatory retirement disregards individual health and capability when determining one's ability to work",
+"With increased life expectancy and healthy ageing, mandatory retirement is now archaic",
+"Forcing retirement can result in a negative impact on the wellbeing and financial security of the individual",
+"Mandatory retirement contributes to the social isolation and depression in older populations",
+"Mandatory retirement can add economic burdens on younger generations to support retirees",
+"Ending mandatory retirement promotes the idea of value and productivity at any age",
+"Arguments of forced retirement being a form of ageism",
+"People should have the autonomy to decide when they wish to retire."]
+negative:
+["Mandatory retirement enables new talent infusion into the workforce", 
+"Age may hinder some physical and mental capabilities", 
+"It allows job opportunities for younger generations and fresh ideas", 
+"Mandatory retirement is a safety precaution for certain professions", 
+"Positions are opened up for career growth and mobility for younger workers", 
+"Mandatory retirement provides an opportunity for retirees to enjoy their old age", 
+"By ending mandatory retirement, older workers may be denied right to retire", 
+"It enables efficient turnover in the workforce promoting predictability in job openings", 
+"Mandatory retirement helps combat unemployment among younger people", 
+"Companies stay vibrant and dynamic with the entry of young blood", 
+"Mandatory retirements pave way for better financial planning", 
+"For physical-demanding jobs, mandatory retirement ensures safety and productivity."]
+
+17
+topic:
+We should fight for the abolition of nuclear weapons
+stance:
+positive:
+[
+"Terrorist groups could potentially access nuclear weapons, causing immense damage and devastation.",
+"Abolishing nuclear weapons would prevent their use by nefarious actors, such as terrorist organizations.",
+"Abolition of nuclear weapons would be a significant step toward achieving world peace.",
+"Nuclear weapons can lead to mutually assured destruction, and conventional warfare is preferable.",
+"Nuclear weapons could result in devastating damage if accidentally detonated.",
+"Arms races due to the existence of nuclear weapons can increase global dangers.",
+"Nuclear weapons generate public fear and terror, negatively impacting states and individuals.",
+"Countries investing in nuclear weapon construction could redirect resources towards promoting disarmament and mutual trust.",
+"Having nuclear weapons in the hands of dictators or rogue regimes can lead to devastating mass destruction.",
+"Nuclear weapons pose an environmental danger, causing immediate and long-term impacts.",
+"Nuclear weapon development and maintenance is an overly expensive defense strategy.",
+"Nuclear weapons proliferation poses an increasing threat as more countries and potentially terrorist organizations seek them.",
+"Nuclear weapons can wipe out entire nations, causing unspeakable suffering.",
+"Nuclear weapons breed fear and mistrust among countries instead of keeping peace.",
+"The use of nuclear weapons could lead to complete annihilation of both the attacking and defending sides.",
+"Nuclear weapons are inherently immoral, with no justification for such mass destruction.",
+"Nuclear weapon production exposes workers to harmful radiation, affecting their health and lifespan.",
+"Use and production of nuclear weapons have been proven dangerous and difficult to control, posing a global risk."
+]
+negative:
+["Countries should have the right to defend themselves with nuclear weapons even if they do not intend to use them.",
+ "The existence of nuclear technology makes the abolition of nuclear weapons an unrealistic goal.",
+ "Having nuclear weapons contributes to peace as it deters nations from initiating war due to the fear of mutual destruction.",
+ "Nuclear weapons serve as an 'insurance policy' against major wars.",
+ "Countries without nuclear weapons are at a disadvantage in terms of defense against those that do have them.",
+ "Getting rid of all nuclear weapons would make nations susceptible to rebellious states or non-state actors who refuse to follow disarming rules.",
+ "Nuclear weapons prevent wars due to the fear of their destructive power if launched in retaliation.",
+ "Nuclear weapons increase a nation's power and status on a global scale.",
+ "Having nuclear weapons decreases the chance of a nuclear war as they deter other countries from initiating conflict.",
+ "The abolition of nuclear weapons would render a nation vulnerable to attacks.",
+ "Nuclear weapons are a deterrent and their removal may increase the risk of countries using theirs without fear of retaliation.",
+ "Nuclear weapons symbolize a country's power and deter others from launching attacks."]
+
+18
+topic:
+We should fight urbanization
+stance:
+positive:
+["Urbanization leads to increased pollution and congestion in cities", "Increases in urbanization directly correspond with destruction of natural habitats", "Rapid urbanization often disregards environmental protection", "Urban development results in higher crime rates and violence", "Urbanization contributes to overcrowding and poverty", "Urban areas become scarce of green spaces reducing quality of life", "Increased population density in urban areas drives up cost of living", "Urbanization results in irreversible damage to ecosystems and loss of biodiversity", "Over-urbanization results in ghost towns and separation of families", "Urbanization diminishes agricultural spaces leading to vulnerability in food supply", "Over-populated urban spaces cause mental health issues due to isolation", "Uncontrolled urbanization leads to increased air and noise pollution"].
+negative:
+["Urbanization provides more employment opportunities", "Bigger communities bring more diversity", "Urban areas have better utilization of funding and services", "It's easier to control crime and have access to medical facilities in urban areas", "Urbanization is better for environmental preservation as it damages less wildlife and open spaces", "Urbanization makes planning and providing services more cost effective", "Urbanization helps economy growth by providing investment opportunities", "It provides more accessibility to essential services such as transportation, medical, and educational services", "Urbanization fosters technological development", "Urbanization is necessary for societies to prosper"]
+
+19
+topic:
+We should introduce compulsory voting
+stance:
+positive:
+["High turnout is crucial for democratic mandate and proper functioning of democracy.", 
+"Compulsory voting ensures elected government truly represents the wishes of the majority.", 
+"Politicians would have to consider the needs of the whole electorate, not just those who vote.",
+"Every adult's vote must be heard and made obligatory, with penalties for those who don't comply.",
+"Compulsory voting lets politicians accurately represent public's will.", 
+"Compulsory voting is a patriotic act.", 
+"Compulsory voting provides every citizen the opportunity to make a difference.", 
+"Complusory voting can improve election results.", 
+"Compulsory voting could assist in population check and ID verification.",
+"Compulsory voting could improve political knowledge among people.", 
+"All votes will be counted through compulsory voting.", 
+"Compulsory voting ensures that governments reflect the will of all people, not just those who manage to vote."]
+negative:
+["Compulsory voting infringes upon individual rights and freedom.", "Forcing individuals to vote could lead to ill-informed, random votes.", "Compulsory voting goes against the democratic process and principles.", "People have the right not to vote as a form of protest against corruption or dissatisfaction with the government.", "Compulsory voting may drive people who are uninterested in politics to blindly vote for candidates.", "Compulsory voting might violate civil rights and free will.", "Enforcing compulsory voting is difficult and could pose challenges for elderly individuals and those with mobility issues.", "A well-informed population is vital for the democracy; forcing everyone to vote might undermine this.", "Voting should be a personal choice and not a requirement.", "Introducing compulsory voting could increase sentiment of government overreach.", "Compulsory voting might be deemed as a violation of the democratic right to freedom of choice.", "Additional effort would be needed to educate the public to ensure informed votes if voting was mandatory."]
+
+20
+topic:
+We should legalize cannabis
+stance:
+positive:
+["A shift from drinking alcohol to cannabis use will decrease crimes", 
+"A study has confirmed that marijuana legalization results in reduced marijuana use amongst teenagers", 
+"Adults should be able to choose substances that they want to use", 
+"Cannabis can be used effectively for medicinal purposes to provide relief from severe medical conditions",
+"Cannabis helps regulate body weight and could help prevent and regulate diabetes",
+"Buying illegal marijuana is unsafe. Legal marijuana is regulated for consumer safety",
+"By legalising cannabis, it would free up the police to deal with other matters, plus by taxing it the government can bring in extra revenue",
+"Cannabis can relieve the spasticity of the muscles that is sometimes associated with multiple sclerosis and paralysis",
+"Cannabis has many medical benefits that could be used to give relief to people with chronic illnesses",
+"Cannabis has been shown to be less harmful than alcohol so legalizing it makes perfect sense",
+"Cannabis legalization could be a lucrative source of revenue",
+"Legalizing marijuana will free up police resources, lower street crime and generate tax revenue"]
+negative:
+[
+"Cannabis use has shown to have negative effects on memory, concentration, motor control, coordination, and problem-solving abilities.",
+"Cannabis can potentially be a gateway drug, possibly leading users to harder and more harmful substances.",
+"Legalization of cannabis might lead to increased accessibility and usage, especially amongst younger people, possibly leading to addiction.",
+"Cannabis use can cause serious mental health problems including psychosis and paranoia, and there is a possible correlation with schizophrenia.",
+"Legalizing cannabis can potentially lead to increased occurrence of impaired driving, risking public safety.",
+"Regular use of cannabis can have detrimental effects on an individual's brain development, especially amongst teenagers.",
+"Cannabis use harms more than just the person using the drug. Societal costs of marijuana would possibly outweigh its tax revenues.",
+"Legalization of cannabis might lead to an increase in drug trafficking and associated violence.",
+"The production of marijuana can have environmental effects such as deforestation, soil erosion, and habitat destruction.",
+"Legalizing cannabis could possibly normalize its use and cause an increase in the use of the drug, particularly among younger people.",
+"It's possible that cannabis legalization can encourage the marijuana industry to exploit users for profit and target vulnerable populations.",
+"Legalization of cannabis might give the impression that drug use is permitted, possibly leading to a surge in drug experimentation and addiction."
+]
+
+21
+topic:
+We should legalize prostitution
+stance:
+positive:
+["Right to autonomy and using their body as they want", "Legalization could lead to better control over the industry, reducing crime and disease spread", "It could provide better protection to the workers and prevent exploitation", "Legalizing could lead to taxation benefits and increased revenue for the state", "Better regulation could result in safer working conditions", "It empowers the women in the profession", "Greater safety for the workers due to the option to report bad clients", "Possibility to monitor and prevent underage prostitution", "It could help in the fight against human trafficking", "Legal recourse for bad treatment can be possible for workers", "It might result in decrease of associated stigma, making it safer", "It provides an option for work and contributes to financial prosperity."]
+negative:
+["Legalising prostitution could lead to an increase in organised crime", 
+"Legalising prostitution could increase the risk of serious crimes like human trafficking and drug abuse", 
+"Legalising prostitution could promote the spread of sexually transmitted diseases",
+"Legalising prostitution could undermine the basic family structure society relies on",
+"Legalising prostitution could cause a spike in infidelity",
+"Legalising prostitution could promote human trafficking and make it difficult to detect traffickers and assist victims", 
+"Legalising prostitution could inadvertently endorse the profession, which is fundamentally unethical", 
+"Legalising prostitution could lead to an increase in women entering the profession, despite its degrading nature", 
+"Legalising prostitution could help hide dangerous practices like violent crime behind a legal veil",
+"Legalising prostitution could lead to an erosion of moral values and safety of women", 
+"Legalising prostitution could lead to an increase in sexually transmitted diseases, human trafficking and violent crime",
+"Legalising prostitution could facilitate a growth in human trafficking"]
+
+22
+topic:
+We should legalize sex selection
+stance:
+positive:
+["Legalizing sex selection would allow parents to choose the gender of their child and can lead to happier families",
+ "Sex selection can alleviate depression faced by parents who desired a specific gender",
+ "Legal sex selection allows the use of technology to create the desired family structure",
+ "Sex selection can prevent the birth of a child with a sex-linked genetic disorder",
+ "Legalizing sex selection could prevent the neglect or abuse of a child of an unwanted gender",
+ "In countries with birth limits, such as China, sex selection could ensure the parents have their desired child",
+ "Legal sex selection could potentially lower the number of abortions of unwanted gendered babies",
+ "Parents, especially in larger families, could create a gender balance among their children through sex selection",
+ "There exists an argument that sex selection does not harm the child and thus should not be regulated",
+ "Sex selection can be used to prevent gender-specific diseases from being passed onto a baby",
+ "From an individual freedom standpoint, legal sex selection is seen as maximizing reproductive freedom",
+ "Some argue for the legalization of sex selection as it ensures that children brought to the world will be wanted and loved."]
+negative:
+["Sex selection can lead to serious gender imbalance and social problems",
+ "Sex selection interferes with the natural process and is seen as a form of 'playing God'",
+ "Legalization of sex selection might encourage gender discrimination",
+ "Sex selection can escalate abortion rates which is ethically controversial",
+ "Sex selection is generally seen as an expensive medical procedure, causing it to be exclusive to wealthier individuals",
+ "Countries previously engaged in sex selection (like China) currently face social issues due to gender imbalance",
+ "Sex selection is seen as morally wrong by many due to it viewing children as commodities instead of miracles",
+ "Legalized sex selection may be abused by those aiming to create a 'perfect family'",
+ "It's also argued that sex selection goes against many religious beliefs",
+ "Sex selection might lead to destruction of natural selection and upset ecological balance",
+ "Using sex selection for non-medical reasons is generally viewed as unethical and immoral",
+ "The potential for error in sex selection methods could result in lawsuits and wasted resources."]
+
+23
+topic:
+We should prohibit flag burning
+stance:
+positive:
+["Flag symbolizes a country and burning it shows disrespect", "Burning a flag is offensive and considered as hate crime", "Banning flag burning would uphold country's sense of nationalism and pride", "Flag burning is a deliberate act of incitement leading to civil unrest and violence", "Flag burning is offensive to those who defended the country", "Burning flags is a disrespect to soldiers who lost their lives protecting the country.", "Burning national flag can incite hatred and potential retaliation", "Flag burning is unpatriotic and promotes division among people", "Burning flag is a desecration and assault on country's symbol", "Flag burning can be deeply offensive and could be seen as racism." ,"Flag burning is a direct insult to the country and people living in it", "Flag burning represents subversion and should be prohibited for the sake of national cohesion."]
+negative:
+["A flag is mass produced and has no added commercial value other than the material it is made with", "Burning a flag is a form of free speech and forms a constitutional right", "Burning of the flag is free speech and should remain protected", "Burning the flag is a strong and valid way of making a statement against an oppressive regime that is non-violent", "Flag burning is freedom of speech and it would be unconstitutional to ban it", "Flag burning is a protected freedom of speech, just like criticism of the government", "Flag burning is a constitutionally protected act of free speech", "Flag burning is a right to free speech and, therefore, should be protected", "Flag burning is protected by the first amendment", "Flag burning is a form of protest which should not be prohibited to protect one's constitutional rights."]
+
+24
+topic:
+We should prohibit women in combat
+stance:
+positive:
+["An enemy cannot identify gender during combat leading to potentially harmful consequences.",
+"Women are generally perceived to be more emotional which may impact their decision-making in combat.",
+"The physical disparities between men and women may put women at a higher risk in combat situations.",
+"Combat can be argued as too brutal and harsh for women as they may not handle it emotionally.",
+"Due to physical makeup and strength, women may be at a disadvantage in combat.",
+"Women's inherent sensitivity could potentially threaten combat operations.",
+"Mixed-gender combat units may lead to reduced efficiency due to physical disparities and protective instincts.",
+"Men in combat with women may act differently due to a protective instinct, jeopardizing the unit.",
+"Women not being as physically strong as men could pose a danger to themselves and their units in combat.",
+"Having women in combat could lead to distractions amongst male soldiers.",
+"If women are captured during warfare, they might face more severe forms of abuse.",
+"Combat roles requiring specific physical abilities might not be suitable for all women due to certain inherent biological differences."]
+negative:
+["All citizens should be given equal opportunity, including women who want to support their country on the battlefield",
+"Allowing women in combat increases our numbers of trained soldiers for various situations",
+"Physical qualifications, not gender, should determine combat roles",
+"With proper training, women can perform many roles in combat as well as men can",
+"Combat isn't individual-based and women can use the same weapons as men with proper training",
+"Eliminating women from combat situations goes against the principles of gender equality",
+"Equality rights suggest women should have the right to be part of combat forces",
+"Female soldiers can be as qualified for combat as male ones",
+"Progress for women's rights includes the right to participate in combat, where they feel comfortable",
+"Gender shouldn't matter in combat. Proper physical and mental tests should suffice for selection",
+"If women can pass all training requirements, they should be allowed in combat",
+"If they desire equal rights, women should be prepared to serve and bear the risks just like men", 
+"Women's participation can bring fresh skills and perspectives to a war environment",
+"Prohibiting women from combat would be a breach of equality rights."]
+
+25
+topic:
+We should subsidize journalism
+stance:
+positive:
+["Access to information is a crucial right for a voter in a democratic society", "Better journalism is needed to keep our governments in check and the general population in the know", "By subsidizing journalist, we can get a more truthful account of facts as they would not need donations", "Subsidization could help pull journalism out of economic slump, brought on by the rise of online media and the fall of print media", "High-quality journalism requires time, expertise, and research, which all requires money", "Subsidization could promote a more independent journalism, ensuring it's accessible to everyone and not threatened by online paywalls", "Investigative journalism serves as a cornerstone of democracy by keeping politicians accountable", "The transition of news organizations to new forms of media is a costly process that requires subsidization", "Subsidization will allow journalism to provide even more information, thereby creating a more informed populace", "It would ensure the survival of critical journalism in the era of fake news and social media", "Subsidization will enable journalists to continue to explore cover ups and corruption by creating government and institutional accountability", "Supporting journalism is crucial in defending 'free speech' and promoting transparency in society"]
+negative:
+[
+"Even if the government doesn't gain influence over the reported news, the perception that it does will increase public distrust.",
+"The appearance of control through subsidies destroys the credibility of newspapers.",
+"Government funding comes with overt or covert strings attached, muting criticisms of the government.",
+"Subsidizing journalism could create conflicts of interest.",
+"Good journalists are already financially stable and their companies don't need extra funding from the government.",
+"Subsidies could lead to regulatory measures by the state over journalistic content.",
+"Subsidies could incentivize inaccurate or low-quality work.",
+"Journalistic independence would be threatened if subsidized by government, potentially causing bias or fear of losing funding.",
+"Subsidization could lead to secretive operations and spread of mistrust among the public.",
+"Journalism can self-sustain, demonstrated by numerous successful media outlets, making subsidization unnecessary.",
+"Subsidization can lead to biased reporting and spread of fake news as journalists may cater to the agenda of funding source.",
+"Government subsidies would make journalism financially dependent, opening avenues for government influence over reported news."
+]
+
+26
+topic:
+We should subsidize space exploration
+stance:
+positive:
+['Subsidizing space exploration can lead to discoveries and technological innovations', 'Space exploration can provide important scientific discoveries and capture knowledge about the broader universe', 'It could provide an insurance policy against potential global threats to our planet', 'Space mining could offer access to valuable minerals no longer available on Earth', 'Space exploration could potentially lead to the colonization of other planets', 'Investment in space exploration can have huge economic benefits and stimulate the national economy', 'In the face of a growing population and environmental concerns, exploring other worlds has become ever more important', 'Supporting space exploration can lead to benefits in national defense and security systems', 'In the past, major scientific advancements and discoveries have stemmed from space exploration', 'Subsidized exploration ensures collaboration and cooperation among nations in the space frontier', 'Space exploration is an intrinsic part of human desire to understand and explore the universe', 'Investing in space exploration can lead to future innovations that improve everyday life on Earth']
+negative:
+["Exploration of space has not produced any tangible benefits yet", "Exploring the Earth is more important", "In times of austerity, no government can afford the costly exercise of subsidizing space exploration", "It costs too much money to send space ships to other planets", "It is morally wrong to fund space exploration while we still need to improve conditions on Earth", "Private corporations can fund this without using tax payer's money", "Space exploration does not necessarily benefit humanity", "Space exploration is a costly waste of money", "The private sector is fully capable of fulfilling space exploration", "Subsidizing space exploration takes away funds from more urgent needs", "Space exploration does not justify its hefty cost", "There have been no direct benefits from space travel"]
+
+27
+topic:
+We should subsidize vocational education
+stance:
+positive:
+["Promoting academic education over vocational education needs to be balanced by subsidizing the latter.", 
+"Subsidizing vocational education works towards betterment of society as it educates everyone.", 
+"Vocational education includes life skills such as cooking and fixing things, which are beneficial for society.", 
+"Individuals in service professions often aren't competitively paid, thus subsidies can encourage more people in these careers.", 
+"Subsidies may encourage employers taking on trainees by making training more affordable.", 
+"Subsidies in vocational education can help maintain a steady supply of skilled tradespeople.", 
+"Subsidizing vocational education could help address skills shortages in many trades.", 
+"Not everyone is suited for four year colleges, hence vocational education is a good alternative.", 
+"Subsidizing vocational education can lead to more accessible education and hence a more dedicated workforce.", 
+"In the rapidly changing world, vocational education is more likely to lead to employment, thus it should be subsidized.", 
+"Vocational education serves the public good by providing essential services to the community.", 
+"Subsidizing vocational education can benefit the economically worse off in society, as it usually has lower costs and more flexible schedules."]
+negative:
+["Subsidizing vocational education gives it an unfair advantage over alternative career paths.",
+"Subsidizing vocational education is a cost that government may not be able to afford due to other priorities or debts.",
+"Subsidies for vocational education might result in an oversupply of certain skills, reducing demand and wages in those fields.",
+"Subsidizing vocational education can lead to an uneven focus in education, creating a potential imbalance.",
+"Subsidizing vocational education might discourage students from pursuing traditional higher education, limiting their career choices.",
+"Vocational education trains people for industries that are becoming increasingly obsolete due to advancements like robotics and AI.",
+"Vocational education may force young people into specific career paths before they fully understand their decision.",
+"If other areas of education are already subsidized, additional subsidies for vocational education might be unnecessary.",
+"It may create an unfair system where the wealthy choose formal education and the poor are restricted to vocational training.",
+"Grant schemes already exist for those who cannot afford traditional and vocational education making subsidies redundant.",
+"Subsidizing vocational education might encourage profit-led institutions that do not meet quality standards for government subsidization.",
+"Subsidies are more efficient when beneficial to all, not just a select few in certain fields."]
+
+28
+topic:
+Routine child vaccinations should be mandatory
+stance:
+positive:
+["Routine childhood vaccinations should be mandatory for virus prevention", "Child vaccination has to be mandatory to protect them from lethal diseases.", "Child vaccination saves lives and keeps children from suffering from preventable illness.", "Child vaccination should be mandatory to avoid transferring the disease", "Child vaccinations should be mandatory to prevent children becoming seriously ill from diseases and spreading infections", "Routine childhood vaccinations should be mandatory to avoid catching deadly diseases", "Vaccinate children offers long-term immunization against potentially fatal and easily contagious diseases", "Vaccination is a safe and effective way to prevent disease and save lives.", "Routine child vaccination should be mandatory so that the general population can thrive by being free of deadly diseases.", "Routine child vaccinations should be mandatory so we make sure the children are safe", "Vaccination is one of the most effective public health interventions in the world for saving lives and promoting good health.", "Childhood vaccines are a necessity as they help the growth of children and should be mandatory."]
+negative:
+["Child vaccinations could potentially bring dangerous reactions", 
+"Parents should have the right to decide what is best for their children",
+"Vaccines may cause unwanted side effects",
+"Mandatory vaccinations infringe upon free will",
+"Subjecting children to vaccines could potentially cause long-term health problems",
+"There are religious beliefs that oppose vaccination", 
+"Vaccines potentially have harmful ingredients",
+"There's uncertainty about the vaccine's efficacy",
+"Mandatory vaccination would create unnecessary unrest and protests", 
+"Mandatory vaccinations might infrac the right of parents to raise their children",
+"Child vaccinations may not be cost-effective for the countries",
+"Children have a stronger immune system and could potentially develop natural immunity against viruses"]
+
+29
+topic:
+Social media platforms should be regulated by the government
+stance:
+positive:
+["All social media platforms should be regulated by the government to monitor and control published content, without invading personal space of users.", 
+"By regulating social media, the government can help limit the spread of discriminatory content, hate speech, and crime.",
+"Regulation would assist in preventing the dissemination of fake news, hoaxes, and malicious information which can be harmful to society.",
+"The regulation of social media by the government can protect privacy, control false identities theft, and protect vulnerable groups such as minors who are at risk.",
+"Regulation can filter out negative content, and promote a healthy and safe online environment, while managing false news leaks, discrimination and other harmful content.",
+"Effective regulation takes into consideration the possibility of harming freedom of speech, and should focus on managing the spread of harmful content and not limit the right to expression.",
+"Regulation will prevent activities of malicious people using platforms for selfish purposes, and also mitigate the spread of harmful material that can be considered harmful.",
+"A government-regulated social media platform can prevent the crimes of blackmailing, promote the distribution of authentic news only, and stop hate speeches and rumors.",
+"Regulation by the government can prevent the spread of dangerous ideologies, harmful activities, and also stop the recruitment of individuals for nefarious purposes by organized crime outfits.",
+"Regulation by the government will promote a more responsible use of social media, making users think twice about their posts and also preventing online crimes.",
+"Regulation by the government is an intervention necessary to preserve the benefits of digital platforms, and avoid the damages they can cause when left uncontrolled.",
+"Regulation implies making sure that social media postings are accurate, and prevents those who use it from violating the rights to honor, image, reputation and even aiding criminal behaviors."]
+negative:
+["Opening the door for governments to regulate internet leads to potential disaster.", 
+ "Government regulation impacts privacy and freedom of expression on social networks.", 
+ "Government regulation could politicize social media platforms, benefiting certain campaigns through targeted advertising.", 
+ "Government regulation could be harmful to democracy and encourage authoritarian behavior.", 
+ "It is against freedom of expression and could possibly violate communication rights.", 
+ "Regulated social media platforms may threaten the liberty of the internet.", 
+ "Citizens may feel their privacy is invaded, causing discomfort and a feeling of constantly being watched.", 
+ "Regulation of social media may limit the potential for innovation on these platforms.", 
+ "Government regulation could become a threat to democracy.", 
+ "Such regulation might result in people refraining from using such platforms that are regulated and resort to other mediums.", 
+ "Government regulation of social media would impact negatively on the right to free speech.", 
+ "Government regulation might give the government unethical access to private information."]
+
+
+30
+topic:
+The USA is a good country to live in
+stance:
+positive:
+['USA is known for its cultural diversity and natural beauty', 'There are many opportunities for growth and development', 'USA offers a high standard of living and quality of life', 'USA has robust health and education systems', 'The country is known for freedom of speech, religion, and pursuit of dreams', 'USA is a global economic leader providing numerous job opportunities', 'USA is recognized for its stability, both politically and economically', 'Living in USA can improve English language skills', 'It offers a multicultural and inclusive society', 'Freedom and rights of individuals are highly respected', 'USA is renowned for its technological advancement', 'The country has a broad range of job opportunities and possibilities for entrepreneurship.']
+negative:
+["High crime rates",
+"Expensive healthcare",
+"Expensive education",
+"High cost of living",
+"Racial discrimination",
+"Xenophobia",
+"Growing political division",
+"High tax rates",
+"Poor gun control laws",
+"Lack of opportunities for immigrants",
+"High stress lifestyle",
+"Restriction and control by government"]
+
