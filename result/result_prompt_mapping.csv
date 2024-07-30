@@ -1,0 +1,4 @@
+result,model,prompt,remark,BLEU Score,BERT Score
+gpt-4_1.csv,gpt4,You need to do key point analysis on the query of user and generate a key point from it.,,5.33E+00,0.880711228
+gpt-4.csv,gpt4,You need to do key point analysis on the query of user and generate a key point from it. You can omit the statement of key point in the response.,There are few wrong cases in the predict_KP due to the ununified instruction of key point. ,5.40E+00,0.882435033
+gpt-3.5-turbo.csv,gpt-3.5-turbo,Generate the key point of the given argument. The output format is like this: Key Point: ...,,5.43E+00,0.88343414
