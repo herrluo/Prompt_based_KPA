@@ -1,0 +1,30 @@
+format: gpt-4+one shot
+prompt: 
+You need to do key point analysis on the query of user and
+generate a key point from it. One example is:
+Argument: a cure or treatment may be discovered shortly after having ended someone's life
+unnecessarily.
+Key Point: Assisted suicide should not be allowed because many times people can still get better
+
+BLUE Score: 5.68609022556391
+BERT Score: 0.9073425388336182
+
+format: gpt-4+CoT+3Candidates
+prompt:
+You need to do key point analysis on the query of user and
+generate a key point from it. You need to do it step by step. Firstly, generate 3 candidates
+from the given query and then, select a best one from them and it should be in this format:
+Key Point: ...
+
+BLUE Score: 5.9417566932832315
+BERT Score: 0.8863344472646714
+
+format: gpt-4+CoT
+prompt:
+You need to do key point analysis on the query of user and
+generate a key point from it. Let's do it step by step. Return the whole precess.
+And the key point should be in this format: Key Point: ...
+
+BLUE Score: 5.130618969169216
+BERT Score: 0.8867334282398224
+
