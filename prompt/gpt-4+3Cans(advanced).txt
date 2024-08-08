@@ -1,0 +1,1400 @@
+0
+argument:
+all services have to be paid for, and until the defecit has been reduced, too much money is being wasted on interst payments. once debts have been reduced, that money will be availbale for services.
+target:
+Austerity is necessary to reduce deficits or pay debts
+predict:
+A significant amount of money is being wasted on interest payments due to the existing deficit
+Matrices:
+BLEU_SCORE: 2.908317710573757
+BERT_SCORE: 0.8651386499404907
+LENGTH_SCORE: 94
+ROUGE_SCORE: 0.15999999539200013
+METEOR_SCORE: 0.15463917525773196
+
+1
+argument:
+journalism acts as a check on public institutions and should be subsidized, as private funds are no longer enough to sustain their mission.
+target:
+Journalism is important to information-spreading/accountability
+predict:
+Journalism serves as a monitor for public institutions
+Matrices:
+BLEU_SCORE: 5.522397783539471
+BERT_SCORE: 0.8845152854919434
+LENGTH_SCORE: 54
+ROUGE_SCORE: 0.1538461491124262
+METEOR_SCORE: 0.09433962264150944
+
+2
+argument:
+private military companies are often run by former military men and women and provide a service that allows the military to concentrate on military operations.
+target:
+Private military companies can supplement regular armies in specific tasks that armies cannot, or do not want, to do
+predict:
+Private military companies are predominantly managed by ex-military personnel.
+Matrices:
+BLEU_SCORE: 5.199346361051781
+BERT_SCORE: 0.8848557472229004
+LENGTH_SCORE: 78
+ROUGE_SCORE: 0.23076922624260363
+METEOR_SCORE: 0.14155982905982906
+
+3
+argument:
+the right to keep and bear arms has caused too many mass shootings and should be banned.
+target:
+Gun ownership allows for mass-shootings/general gun violence
+predict:
+The right to keep and bear arms is linked to incidences of mass shootings.
+Matrices:
+BLEU_SCORE: 0.0
+BERT_SCORE: 0.8797920942306519
+LENGTH_SCORE: 74
+ROUGE_SCORE: 0.0
+METEOR_SCORE: 0.0
+
+4
+argument:
+private military companies tend to save the company hiring them money.
+target:
+Hiring private military companies is financially beneficial
+predict:
+Hiring private military companies can lead to significant savings for the employing company.
+Matrices:
+BLEU_SCORE: 17.77835117834348
+BERT_SCORE: 0.9352152943611145
+LENGTH_SCORE: 92
+ROUGE_SCORE: 0.3999999954500001
+METEOR_SCORE: 0.515422077922078
+
+5
+argument:
+too many people fight and cause wars through religion so it should be banned in favour of atheism
+target:
+Religions are immoral and people should not follow them
+predict:
+The user suggests that religion often leads to conflict and wars.
+Matrices:
+BLEU_SCORE: 3.3864985683445354
+BERT_SCORE: 0.871720552444458
+LENGTH_SCORE: 65
+ROUGE_SCORE: 0.09999999505000023
+METEOR_SCORE: 0.10752688172043011
+
+6
+argument:
+we should not ban the use of child actors because then no movies would have children in them
+target:
+Child performers are necessary for roles
+predict:
+Ban on child actors would eliminate the realistic portrayal of children in movies
+Matrices:
+BLEU_SCORE: 0.0
+BERT_SCORE: 0.8721563220024109
+LENGTH_SCORE: 81
+ROUGE_SCORE: 0.0
+METEOR_SCORE: 0.07462686567164178
+
+7
+argument:
+routine child vaccination should not be mandatory because the child could get really bad side affects
+target:
+Routine child vaccinations, or their side effects, are dangerous
+predict:
+The user perceives potential severe side effects as a primary concern for child vaccination.
+Matrices:
+BLEU_SCORE: 5.816635421147513
+BERT_SCORE: 0.8894223570823669
+LENGTH_SCORE: 92
+ROUGE_SCORE: 0.1739130387145559
+METEOR_SCORE: 0.3289473684210526
+
+8
+argument:
+private military companies give rise to some unethical practices as they are not under the same scrutiny as government military.
+target:
+Private military companies are less ethical and violate rights or commit crimes
+predict:
+Private military companies may encourage unethical behavior due to lack of strict oversight.
+Matrices:
+BLEU_SCORE: 10.571070857151538
+BERT_SCORE: 0.9027124047279358
+LENGTH_SCORE: 92
+ROUGE_SCORE: 0.23999999500800012
+METEOR_SCORE: 0.24134790528233155
+
+9
+argument:
+we should prohibit flag burning because it is unpatriotic and it leads to dissent. the act of disgracing an emblem of a country makes one an enemy of the state and they should be arrested
+target:
+Flags are important symbols that should be respected
+predict:
+Flag burning should be prohibited due to its unpatriotic nature.
+Matrices:
+BLEU_SCORE: 7.495553473355842
+BERT_SCORE: 0.8799848556518555
+LENGTH_SCORE: 64
+ROUGE_SCORE: 0.22222221728395072
+METEOR_SCORE: 0.30789825970548856
+
+10
+argument:
+we should not abolish intellectual property rights as they protect the income of people who need them to make a living.
+target:
+People, or a business, own their innovations and should be able to be compensated for their endeavour
+predict:
+Not abolishing intellectual property rights protects individuals relying on them for their livelihood.
+Matrices:
+BLEU_SCORE: 3.9739143295103077
+BERT_SCORE: 0.8521183133125305
+LENGTH_SCORE: 102
+ROUGE_SCORE: 0.14285713788265325
+METEOR_SCORE: 0.10135135135135136
+
+11
+argument:
+vows of celibacy are a way of expressing devotion and channelling ones thoughts away from desire into worship.
+target:
+Celibacy allows a priest to focus on God
+predict:
+Celibacy focuses thoughts into worship
+Matrices:
+BLEU_SCORE: 5.862502026550896
+BERT_SCORE: 0.9274404644966125
+LENGTH_SCORE: 38
+ROUGE_SCORE: 0.1538461491124262
+METEOR_SCORE: 0.06493506493506494
+
+12
+argument:
+it would hurt our country to adopt an austerity regime. many people wouldn't be able to survive if our government made drastic cuts to programs that help people buy food and pay their bills.
+target:
+Austerity cuts access to essential services
+predict:
+Many individuals may struggle to survive if the government reduces support for essential programs.
+Matrices:
+BLEU_SCORE: 3.1251907639724417
+BERT_SCORE: 0.8930821418762207
+LENGTH_SCORE: 98
+ROUGE_SCORE: 0.19999999580000008
+METEOR_SCORE: 0.14492753623188406
+
+13
+argument:
+we should not legalize prostitution, it a horrible and demeaning occupation and should remain illegal
+target:
+Selling one's body is immoral
+predict:
+Prostitution is portrayed as a negative and degrading profession
+Matrices:
+BLEU_SCORE: 4.767707020457095
+BERT_SCORE: 0.842627763748169
+LENGTH_SCORE: 64
+ROUGE_SCORE: 0.14285713826530627
+METEOR_SCORE: 0.07936507936507937
+
+14
+argument:
+child actors are put in situation vulnerable to predators, miss opportunities of education as well as being able to form solcial bonds in the everyday world.
+target:
+Child performers are at risk of exploitation
+predict:
+Child actors are often exposed to situations where they might be vulnerable to predators
+Matrices:
+BLEU_SCORE: 3.377156414337854
+BERT_SCORE: 0.9169875979423523
+LENGTH_SCORE: 88
+ROUGE_SCORE: 0.19999999545000013
+METEOR_SCORE: 0.12987012987012989
+
+15
+argument:
+space exploration gives us an advantage over other countries, allowing us to improve satellite placement that can help protect from combat enemies.
+target:
+Space exploration improves science/technology
+predict:
+Space exploration provides us with geopolitical advantages over other nations.
+Matrices:
+BLEU_SCORE: 7.495553473355842
+BERT_SCORE: 0.8916438817977905
+LENGTH_SCORE: 78
+ROUGE_SCORE: 0.2857142816326531
+METEOR_SCORE: 0.398936170212766
+
+16
+argument:
+We should subsidize space exploration as there is a need to continue to develop the technology to enable mankind to survive on Earth and elsewhere.
+target:
+Space exploration is necessary for the future survival of humanity
+predict:
+Space exploration is essential for the survival of mankind on Earth and other planets.
+Matrices:
+BLEU_SCORE: 14.377919100088198
+BERT_SCORE: 0.9558098912239075
+LENGTH_SCORE: 86
+ROUGE_SCORE: 0.5833333284722223
+METEOR_SCORE: 0.640427599611273
+
+17
+argument:
+children shouldn't have to work at all- they should be playing and learning.
+target:
+Child performers are losing their childhood
+predict:
+Labor for children is inappropriate and detrimental to their development.
+Matrices:
+BLEU_SCORE: 3.7477767366779213
+BERT_SCORE: 0.8725624680519104
+LENGTH_SCORE: 73
+ROUGE_SCORE: 0.12499999531250018
+METEOR_SCORE: 0.15384615384615385
+
+18
+argument:
+ Routine childhood vaccinations  should be mandatory for virus prevention
+target:
+Routine child vaccinations should be mandatory to prevent virus/disease spreading
+predict:
+The non-compliance to mandatory child vaccination could result in virus outbreaks or re-emergence of previously eradicated diseases.
+Matrices:
+BLEU_SCORE: 3.0372940354383413
+BERT_SCORE: 0.8770334720611572
+LENGTH_SCORE: 132
+ROUGE_SCORE: 0.22222221755829916
+METEOR_SCORE: 0.2922453703703704
+
+19
+argument:
+the universe outside of our planet holds the most fascinating mysteries, of course we should explore it and learn, it is ignorant and arrogant to think this planet is all that matters
+target:
+Space exploration unravels information about the universe
+predict:
+We should explore and learn about the universe to increase our knowledge.
+Matrices:
+BLEU_SCORE: 11.498759556447217
+BERT_SCORE: 0.8990577459335327
+LENGTH_SCORE: 73
+ROUGE_SCORE: 0.31578946903047095
+METEOR_SCORE: 0.49342105263157904
+
+20
+argument:
+School uniforms can prevent bullying due to economic background and appearance.
+target:
+School uniform reduces bullying
+predict:
+School uniforms can act as a deterrent to bullying
+Matrices:
+BLEU_SCORE: 5.669791110976001
+BERT_SCORE: 0.9467417001724243
+LENGTH_SCORE: 50
+ROUGE_SCORE: 0.3076923034319527
+METEOR_SCORE: 0.5679012345679012
+
+21
+argument:
+if parents agree for their children to acting in movies, can`t see any problem with it.
+target:
+The parents should decide for their child
+predict:
+Parents' consent is crucial for children's participation in movie acting.
+Matrices:
+BLEU_SCORE: 3.7477767366779213
+BERT_SCORE: 0.8635948300361633
+LENGTH_SCORE: 73
+ROUGE_SCORE: 0.11764705397923896
+METEOR_SCORE: 0.19736842105263158
+
+22
+argument:
+The United States is the country with the most opportunities to prosper, therefore, without a doubt, it is the best country to live
+target:
+The US offers great opportunities for individuals
+predict:
+The country provides many opportunities to prosper
+Matrices:
+BLEU_SCORE: 7.809849842300637
+BERT_SCORE: 0.9289804697036743
+LENGTH_SCORE: 50
+ROUGE_SCORE: 0.2857142807142858
+METEOR_SCORE: 0.14285714285714285
+
+23
+argument:
+Legalizing sex selection will help parents to have the exact family makeup they have always dreamed of.
+target:
+Sex selection makes the family more happy/complete
+predict:
+Sex selection provides potential for parents to realize their specific family desires.
+Matrices:
+BLEU_SCORE: 6.837203339116283
+BERT_SCORE: 0.9057875275611877
+LENGTH_SCORE: 86
+ROUGE_SCORE: 0.31578946903047095
+METEOR_SCORE: 0.3362573099415205
+
+24
+argument:
+homeschooling is sometimes the only option for distressed or troublesome children who cannot adapt to the normal school environment.
+target:
+Homeschooling is often the best option for catering for the needs of exceptional/religious/ill/disabled students.
+predict:
+Homeschooling is used as an alternative for children who struggle in traditional school settings.
+Matrices:
+BLEU_SCORE: 4.189756033552324
+BERT_SCORE: 0.898009717464447
+LENGTH_SCORE: 97
+ROUGE_SCORE: 0.23076922579881665
+METEOR_SCORE: 0.21041666666666667
+
+25
+argument:
+we need to keep our guns to protect us if there were to be another civil war.
+target:
+Gun ownership promotes self protection
+predict:
+User expresses a need for personal firearms for protection in event of another civil war
+Matrices:
+BLEU_SCORE: 2.627961710408444
+BERT_SCORE: 0.8702280521392822
+LENGTH_SCORE: 88
+ROUGE_SCORE: 0.10526315401662063
+METEOR_SCORE: 0.08333333333333336
+
+26
+argument:
+urbanization concentrates people in one are thus increasing pollution.
+target:
+Urbanization harms the environment
+predict:
+Urbanization and pollution are directly linked due to the concentrated human activities.
+Matrices:
+BLEU_SCORE: 3.673526562988939
+BERT_SCORE: 0.9118112921714783
+LENGTH_SCORE: 88
+ROUGE_SCORE: 0.24999999625000005
+METEOR_SCORE: 0.20408163265306123
+
+27
+argument:
+mandatory retirement put high-skilled workers out of jobs. putting a pressure in the working field and jeopardizing economic progress
+target:
+A mandatory retirement age decreases institutional knowledge
+predict:
+Mandatory retirement forces high-skilled workers to leave their jobs.
+Matrices:
+BLEU_SCORE: 4.196114906296549
+BERT_SCORE: 0.8982078433036804
+LENGTH_SCORE: 69
+ROUGE_SCORE: 0.12499999507812519
+METEOR_SCORE: 0.2568493150684931
+
+28
+argument:
+we should not end affirmative action because some people would be prejudice and only hire people because of how they look and not because of their work
+target:
+Affirmative action reduces discrimination
+predict:
+Affirmative action seeks to prevent employment discrimination based on physical appearance.
+Matrices:
+BLEU_SCORE: 7.495553473355845
+BERT_SCORE: 0.9276908040046692
+LENGTH_SCORE: 91
+ROUGE_SCORE: 0.3999999960888889
+METEOR_SCORE: 0.5324074074074074
+
+29
+argument:
+cannabis is no worse than alcohol, which has been legal for years, it's a waste of money to enforce a pointless law.
+target:
+Alcohol and tobacco are more harmful drugs yet remain legal
+predict:
+The user believes that cannabis is no less harmful than alcohol
+Matrices:
+BLEU_SCORE: 3.7477767366779213
+BERT_SCORE: 0.8597796559333801
+LENGTH_SCORE: 63
+ROUGE_SCORE: 0.09523809024943337
+METEOR_SCORE: 0.09900990099009903
+
+30
+argument:
+we should not legalize prostitution because the prostitutes spread diseases, therefore, we need to get them off the streets and keep it illegal
+target:
+Legalization will lead to more sexually transmitted diseases
+predict:
+Legalizing prostitution can contribute to the spread of diseases.
+Matrices:
+BLEU_SCORE: 4.990049701936832
+BERT_SCORE: 0.9168344736099243
+LENGTH_SCORE: 65
+ROUGE_SCORE: 0.23529411266435996
+METEOR_SCORE: 0.18292682926829268
+
+31
+argument:
+it is extremely useful in battling a wide range of medical maladies
+target:
+Cannabis is safe/healthy/pain-relief
+predict:
+It is highly beneficial in combatting various health issues.
+Matrices:
+BLEU_SCORE: 4.196114906296549
+BERT_SCORE: 0.8788668513298035
+LENGTH_SCORE: 60
+ROUGE_SCORE: 0.16666666291666676
+METEOR_SCORE: 0.13513513513513514
+
+32
+argument:
+By freeing up space across professional hierarchies mandatory retirement provides more opportunities for career growth and upward mobility for younger people.
+target:
+A mandatory retirement age creates opportunities for other workers
+predict:
+Mandatory retirement ensures career growth opportunities for younger people.
+Matrices:
+BLEU_SCORE: 9.287528999566801
+BERT_SCORE: 0.9171023964881897
+LENGTH_SCORE: 76
+ROUGE_SCORE: 0.3333333283333334
+METEOR_SCORE: 0.412087912087912
+
+33
+argument:
+All beliefs should be recognized not just the one YOU want.
+target:
+Atheism discriminates against religious people / violates freedom of religion
+predict:
+The user defends the idea of diversity and equality of beliefs.
+Matrices:
+BLEU_SCORE: 3.3864985683445354
+BERT_SCORE: 0.8612323999404907
+LENGTH_SCORE: 63
+ROUGE_SCORE: 0.09999999500000027
+METEOR_SCORE: 0.04901960784313726
+
+34
+argument:
+adopting atheism would violate freedom of religion
+target:
+Atheism discriminates against religious people / violates freedom of religion
+predict:
+Adopting atheism implicates personal choice and freedom of religion
+Matrices:
+BLEU_SCORE: 15.881076016027917
+BERT_SCORE: 0.8691399693489075
+LENGTH_SCORE: 67
+ROUGE_SCORE: 0.31578946869806096
+METEOR_SCORE: 0.37878787878787884
+
+35
+argument:
+Social media platform should be regulated by the government because there is too much fake news on the platforms
+target:
+Social media regulation is necessary to deal with fake news
+predict:
+The connection between government regulation on social media and controlling fake news
+Matrices:
+BLEU_SCORE: 8.054496384843702
+BERT_SCORE: 0.9130966067314148
+LENGTH_SCORE: 86
+ROUGE_SCORE: 0.36363635867768596
+METEOR_SCORE: 0.43725490196078437
+
+36
+argument:
+we should not get rid of marriage because it is a special union for both religious and non-religious families. with marriage, two people become one and they essentially share everything that they own
+target:
+Marriage is important for people, either generally or because of religious/traditional reasons
+predict:
+Marriage serves as a special union for both religious and non-religious families.
+Matrices:
+BLEU_SCORE: 3.4857116957065437
+BERT_SCORE: 0.8770912289619446
+LENGTH_SCORE: 81
+ROUGE_SCORE: 0.16666666166666683
+METEOR_SCORE: 0.07692307692307693
+
+37
+argument:
+we should adopt libertarianism because each individual person should be able to decide what politics he wants to follow.
+target:
+Libertarianism increases freedom in the political system
+predict:
+The user's argument is based on the principle of personal freedom in determining one's political path.
+Matrices:
+BLEU_SCORE: 5.439330544349821
+BERT_SCORE: 0.8796931505203247
+LENGTH_SCORE: 102
+ROUGE_SCORE: 0.34782608272211724
+METEOR_SCORE: 0.38490853658536583
+
+38
+argument:
+Since school uniforms are uncomfortable, they distract from student's being able to learn the way they can when wearing their own clothes.
+target:
+School uniforms are often uncomfortable/sexist
+predict:
+School uniforms can cause discomfort for students
+Matrices:
+BLEU_SCORE: 13.134549472120788
+BERT_SCORE: 0.9153473377227783
+LENGTH_SCORE: 49
+ROUGE_SCORE: 0.33333332847222225
+METEOR_SCORE: 0.3605769230769231
+
+39
+argument:
+the right to keep and bear arms is putting everyone in danger and making mass-shootings more easily done.
+target:
+Gun ownership allows for mass-shootings/general gun violence
+predict:
+The claim is that the right to bear arms potentially endangers everyone in society.
+Matrices:
+BLEU_SCORE: 0.0
+BERT_SCORE: 0.856532871723175
+LENGTH_SCORE: 83
+ROUGE_SCORE: 0.0
+METEOR_SCORE: 0.0
+
+40
+argument:
+a person uses his imagination and hard work to write as book or music. they should be able to benefit from their work. it should not be in the public domain.
+target:
+People, or a business, own their innovations and should be able to be compensated for their endeavour
+predict:
+A person utilizes their imagination and effort to produce literary or musical works.
+Matrices:
+BLEU_SCORE: 2.8099817702511314
+BERT_SCORE: 0.8614213466644287
+LENGTH_SCORE: 84
+ROUGE_SCORE: 0.285714280739796
+METEOR_SCORE: 0.16216216216216217
+
+41
+argument:
+the vow of celibacy should be a personal choice, no one should be denied this right, it can allow religious leaders to feel closer to their god and remove distractions from their faith
+target:
+Celibacy allows a priest to focus on God
+predict:
+The vow of celibacy is perceived as a personal choice that individuals should be granted the right to decide for themselves.
+Matrices:
+BLEU_SCORE: 2.0540268312306345
+BERT_SCORE: 0.8789516091346741
+LENGTH_SCORE: 124
+ROUGE_SCORE: 0.13793103048751498
+METEOR_SCORE: 0.21276595744680854
+
+42
+argument:
+nuclear weapons are a strong argument to stop any possible foreign aggression
+target:
+Nuclear weapons is essential for protection and deterrence
+predict:
+Nuclear weapons as a deterrent to foreign aggression
+Matrices:
+BLEU_SCORE: 11.044795567078939
+BERT_SCORE: 0.9061232805252075
+LENGTH_SCORE: 52
+ROUGE_SCORE: 0.24999999500000009
+METEOR_SCORE: 0.3194444444444444
+
+43
+argument:
+we should abolish the right to keep and bear arms. the fewer guns on the streets, the less chance of gun crime including murder
+target:
+Banning guns would save lives
+predict:
+They believe that fewer guns on the streets will lead to decreased gun crime.
+Matrices:
+BLEU_SCORE: 2.627961710408444
+BERT_SCORE: 0.8808993101119995
+LENGTH_SCORE: 77
+ROUGE_SCORE: 0.10526315401662063
+METEOR_SCORE: 0.08333333333333336
+
+44
+argument:
+guns are already ubiquitous and outlawing them will only keep them out of the hands of lawful owners.
+target:
+Gun control is ineffective
+predict:
+Guns are already widespread in society
+Matrices:
+BLEU_SCORE: 0.0
+BERT_SCORE: 0.8714123964309692
+LENGTH_SCORE: 38
+ROUGE_SCORE: 0.0
+METEOR_SCORE: 0.11904761904761905
+
+45
+argument:
+child actors are vital to the entertainment industry.
+target:
+Child performers are necessary for roles
+predict:
+Child actors contribute significantly to the entertainment industry.
+Matrices:
+BLEU_SCORE: 4.767707020457095
+BERT_SCORE: 0.9078811407089233
+LENGTH_SCORE: 68
+ROUGE_SCORE: 0.14285713795918387
+METEOR_SCORE: 0.07936507936507937
+
+46
+argument:
+human cloning is akin to playing god and needs to be banned. there are too many potential down-sides to it.
+target:
+Cloning is unethical/anti-religious
+predict:
+Human cloning is perceived as playing god and is controversial
+Matrices:
+BLEU_SCORE: 4.196114906296549
+BERT_SCORE: 0.8861004710197449
+LENGTH_SCORE: 62
+ROUGE_SCORE: 0.16666666291666676
+METEOR_SCORE: 0.2702702702702703
+
+47
+argument:
+space exploration is the future of our lives and should be continued.
+target:
+Space exploration is necessary for the future survival of humanity
+predict:
+Space exploration is essential for future advancements
+Matrices:
+BLEU_SCORE: 18.094495256969623
+BERT_SCORE: 0.9540393352508545
+LENGTH_SCORE: 54
+ROUGE_SCORE: 0.5882352892733564
+METEOR_SCORE: 0.4597938144329897
+
+48
+argument:
+some people would not have the transport or the monetary funds to be able to get to a voting booth to place their vote. this would lead to economic hardship.
+target:
+Not everyone has the ability to go to vote
+predict:
+Some individuals lack the means of transportation to reach voting booths.
+Matrices:
+BLEU_SCORE: 4.02724819242185
+BERT_SCORE: 0.9094287753105164
+LENGTH_SCORE: 73
+ROUGE_SCORE: 0.21052631091412755
+METEOR_SCORE: 0.16129032258064518
+
+49
+argument:
+homeschooling allows children to be taught in a comfortable sitting as well as benefit from one-on-one teaching and relieves the stress from such things as bullying and peer pressure.
+target:
+Mainstream schools have a lot of violence/bullying
+predict:
+Homeschooling provides a comfortable learning environment for children
+Matrices:
+BLEU_SCORE: 4.8734989388136185
+BERT_SCORE: 0.8713686466217041
+LENGTH_SCORE: 70
+ROUGE_SCORE: 0.13333332835555575
+METEOR_SCORE: 0.07042253521126761
+
+50
+argument:
+Religion is the moral center of many cultures
+target:
+Atheism lacks morality
+predict:
+Religion often serves as the ethical and moral compass in various cultures
+Matrices:
+BLEU_SCORE: 0.0
+BERT_SCORE: 0.8737671375274658
+LENGTH_SCORE: 74
+ROUGE_SCORE: 0.0
+METEOR_SCORE: 0.12820512820512822
+
+51
+argument:
+Remaining celibate has a long history and a major tenet of some religions
+target:
+Religious experiences and traditions should be maintained
+predict:
+The practice of celibacy often bears significant religious and cultural importance.
+Matrices:
+BLEU_SCORE: 3.3864985683445354
+BERT_SCORE: 0.8669131398200989
+LENGTH_SCORE: 83
+ROUGE_SCORE: 0.11111110635802489
+METEOR_SCORE: 0.13333333333333333
+
+52
+argument:
+The vow of celibacy is an outdated concept that causes unnecessary stress on those who take them.
+target:
+Celibacy is outdated
+predict:
+The vow of celibacy is considered as an outdated concept
+Matrices:
+BLEU_SCORE: 4.990049701936832
+BERT_SCORE: 0.8968021869659424
+LENGTH_SCORE: 56
+ROUGE_SCORE: 0.3076923041420118
+METEOR_SCORE: 0.6906906906906907
+
+53
+argument:
+the country would be a mess without the laws and regulations that we have today.
+target:
+Libertarianism removes essential laws/infrastructure/government services
+predict:
+The country's functionality relies heavily on existing laws and regulations
+Matrices:
+BLEU_SCORE: 4.196114906296549
+BERT_SCORE: 0.8529024124145508
+LENGTH_SCORE: 75
+ROUGE_SCORE: 0.0
+METEOR_SCORE: 0.0
+
+54
+argument:
+maximizing freedom is the most legitimate form of society, this is only truly achieved with libertarianism
+target:
+Libertarianism increases individual freedom/liberties
+predict:
+According to the user, libertarianism is the only true path to achieve this maximal freedom.
+Matrices:
+BLEU_SCORE: 2.2869567780619007
+BERT_SCORE: 0.8740618228912354
+LENGTH_SCORE: 92
+ROUGE_SCORE: 0.0
+METEOR_SCORE: 0.09433962264150943
+
+55
+argument:
+Social media platforms should be regulated by the government to stop hate speech
+target:
+Social media regulation can help to deal with negative content
+predict:
+Government control can help to prevent hate speech
+Matrices:
+BLEU_SCORE: 16.009559139455188
+BERT_SCORE: 0.9337143301963806
+LENGTH_SCORE: 50
+ROUGE_SCORE: 0.33333332839506175
+METEOR_SCORE: 0.300453514739229
+
+56
+argument:
+nuclear weapons shouldn't exist and if used erroneously could destroy the planet
+target:
+Nuclear weapons provoke or escalate a disastrous military action
+predict:
+The user asserts that nuclear weapons should not exist.
+Matrices:
+BLEU_SCORE: 4.196114906296549
+BERT_SCORE: 0.8673582077026367
+LENGTH_SCORE: 55
+ROUGE_SCORE: 0.11111110611111134
+METEOR_SCORE: 0.206043956043956
+
+57
+argument:
+cannabis should remain illegal as it can have bad affects on a persons health.
+target:
+Cannabis harms the body
+predict:
+Cannabis has potentially harmful effects on a person's health.
+Matrices:
+BLEU_SCORE: 4.196114906296549
+BERT_SCORE: 0.9147346019744873
+LENGTH_SCORE: 62
+ROUGE_SCORE: 0.15384614958579892
+METEOR_SCORE: 0.21276595744680854
+
+58
+argument:
+child actors are all too often traumatised or abused so their use should be banned.
+target:
+Child performers are at risk of exploitation
+predict:
+The exploitation and harm of child actors in the industry is a significant concern.
+Matrices:
+BLEU_SCORE: 3.1251907639724417
+BERT_SCORE: 0.903068482875824
+LENGTH_SCORE: 83
+ROUGE_SCORE: 0.19047618603174613
+METEOR_SCORE: 0.1923076923076923
+
+59
+argument:
+flag burning is a right guaranteed under the first amendment
+target:
+flag burning is justified due to freedom of expression
+predict:
+The act of flag burning is protected under the provisions of the First Amendment of the US constitution.
+Matrices:
+BLEU_SCORE: 8.097785064266205
+BERT_SCORE: 0.8817968964576721
+LENGTH_SCORE: 104
+ROUGE_SCORE: 0.3478260821928167
+METEOR_SCORE: 0.375
+
+60
+argument:
+parents are not trained, qualified teachers and kids need to learn to socialize with other kids
+target:
+Mainstream schools are essential to develop social skills
+predict:
+Children need opportunities to interact and socialize with their peers.
+Matrices:
+BLEU_SCORE: 3.7477767366779213
+BERT_SCORE: 0.8892562389373779
+LENGTH_SCORE: 71
+ROUGE_SCORE: 0.11111110617283973
+METEOR_SCORE: 0.12048192771084339
+
+61
+argument:
+it is against nature and could upset the balance of the population.
+target:
+Sex selection can lead to gender imbalance
+predict:
+The balance of the population might be disrupted due to the addressed issue.
+Matrices:
+BLEU_SCORE: 2.8398387225677895
+BERT_SCORE: 0.8745395541191101
+LENGTH_SCORE: 76
+ROUGE_SCORE: 0.10526315324099744
+METEOR_SCORE: 0.06493506493506494
+
+62
+argument:
+homeschooling should be banned as all children should have the right to go to a school where they will learn with other children.
+target:
+Mainstream schools are essential to develop social skills
+predict:
+The user advocates for all children's rights to attend school
+Matrices:
+BLEU_SCORE: 4.196114906296549
+BERT_SCORE: 0.8702085018157959
+LENGTH_SCORE: 61
+ROUGE_SCORE: 0.11111110617283973
+METEOR_SCORE: 0.12048192771084339
+
+63
+argument:
+homeschooling allows for one on one teaching as well as allowing a student to learn in a safe environment
+target:
+The home is a good learning environment
+predict:
+Homeschooling enables learning in a safe environment
+Matrices:
+BLEU_SCORE: 8.643019616048525
+BERT_SCORE: 0.8962278366088867
+LENGTH_SCORE: 52
+ROUGE_SCORE: 0.4285714235714286
+METEOR_SCORE: 0.4508928571428571
+
+64
+argument:
+we should subsidize journalism so that we can continue to receive quality media.
+target:
+Journalism is important to information-spreading/accountability
+predict:
+The necessity of subsidizing journalism to ensure a steady flow of quality media.
+Matrices:
+BLEU_SCORE: 2.8398387225677895
+BERT_SCORE: 0.8758724331855774
+LENGTH_SCORE: 81
+ROUGE_SCORE: 0.11764705467128042
+METEOR_SCORE: 0.16949152542372883
+
+65
+argument:
+school uniforms show pride and community and provide fewer distractions from learning.
+target:
+School uniforms encourage discipline or focus on learning
+predict:
+There's a correlation between school uniforms and conducive learning environment.
+Matrices:
+BLEU_SCORE: 4.456882760699063
+BERT_SCORE: 0.8913724422454834
+LENGTH_SCORE: 81
+ROUGE_SCORE: 0.22222221728395072
+METEOR_SCORE: 0.30423280423280424
+
+66
+argument:
+the horrific conditions and treatment are inhumane, and despite what someone has done they deserve a basic quality of life.
+target:
+unjust treatment/tactics are used in the Guantanamo bay detention camp
+predict:
+Conditions are horrific and treatment is inhumane
+Matrices:
+BLEU_SCORE: 3.823246852690463
+BERT_SCORE: 0.8595467209815979
+LENGTH_SCORE: 49
+ROUGE_SCORE: 0.11764705397923896
+METEOR_SCORE: 0.05154639175257732
+
+67
+argument:
+urbanization brings jobs, and is good for the economy.
+target:
+Urbanization benefits the economy
+predict:
+Urbanization plays a significant role in boosting the economy
+Matrices:
+BLEU_SCORE: 10.552670315936318
+BERT_SCORE: 0.9479294419288635
+LENGTH_SCORE: 61
+ROUGE_SCORE: 0.4615384572781066
+METEOR_SCORE: 0.5679012345679012
+
+68
+argument:
+Capital punishment is the most fitting retribution for heinous crimes such as serial killings or child rape - and sometimes even it isn't enough.
+target:
+The death penalty is acceptable in cases of severe crimes
+predict:
+Capital punishment is deemed the most fitting retribution for serious crimes
+Matrices:
+BLEU_SCORE: 4.456882760699063
+BERT_SCORE: 0.8962938785552979
+LENGTH_SCORE: 76
+ROUGE_SCORE: 0.1904761854875285
+METEOR_SCORE: 0.14851485148514848
+
+69
+argument:
+homeschooling should not be banned because some children who have been bullied need the safety of home.
+target:
+Mainstream schools have a lot of violence/bullying
+predict:
+Homeschooling serves as a safe learning environment for bullied children.
+Matrices:
+BLEU_SCORE: 3.7477767366779213
+BERT_SCORE: 0.8819591403007507
+LENGTH_SCORE: 73
+ROUGE_SCORE: 0.11764705397923896
+METEOR_SCORE: 0.06756756756756757
+
+70
+argument:
+you can not force a religion or lack there of on someone
+target:
+People should choose for themselves whether Atheism should be adopted
+predict:
+Freedom of religion and belief is a fundamental right
+Matrices:
+BLEU_SCORE: 0.0
+BERT_SCORE: 0.841425895690918
+LENGTH_SCORE: 53
+ROUGE_SCORE: 0.0
+METEOR_SCORE: 0.05050505050505051
+
+71
+argument:
+we should because we can still learn so much about space.
+target:
+Space exploration unravels information about the universe
+predict:
+The user believes in harnessing our capability to explore more about space.
+Matrices:
+BLEU_SCORE: 3.0890553181566975
+BERT_SCORE: 0.884046196937561
+LENGTH_SCORE: 75
+ROUGE_SCORE: 0.10526315324099744
+METEOR_SCORE: 0.26315789473684215
+
+72
+argument:
+parents should have the right to choose how to educate their children
+target:
+Parents should be permitted to choose the education of their children
+predict:
+Parents possess the ultimate right to determine their children's educational path.
+Matrices:
+BLEU_SCORE: 4.789232204309912
+BERT_SCORE: 0.9351996779441833
+LENGTH_SCORE: 82
+ROUGE_SCORE: 0.3636363586363637
+METEOR_SCORE: 0.38070436507936506
+
+73
+argument:
+austerity affects the poorest in society most and the rich do not feel the effects
+target:
+Austerity is unfair to the citizens
+predict:
+Austerity measures predominantly impact the poorest populations within a society.
+Matrices:
+BLEU_SCORE: 4.456882760699063
+BERT_SCORE: 0.9151706695556641
+LENGTH_SCORE: 81
+ROUGE_SCORE: 0.24999999531250006
+METEOR_SCORE: 0.15384615384615385
+
+74
+argument:
+we should legalize cannabis because it will bring revenue for the government and can be made to a quality standard ensuring no hidden ingredients.
+target:
+Cannabis is financially beneficial
+predict:
+Cannabis legalization would allow for quality control and standardization.
+Matrices:
+BLEU_SCORE: 4.196114906296549
+BERT_SCORE: 0.8681729435920715
+LENGTH_SCORE: 74
+ROUGE_SCORE: 0.15384614958579892
+METEOR_SCORE: 0.10869565217391304
+
+75
+argument:
+we need to balance the playing field since some groups have been unfairly treated and start off on a lower rung of the ladder. affirmative action strives to balance our egregious actions of the past.
+target:
+Affirmative action is necessary to compensate for the past
+predict:
+Affirmative action is a tool for counteracting past discriminatory actions.
+Matrices:
+BLEU_SCORE: 15.851165692617148
+BERT_SCORE: 0.9364840984344482
+LENGTH_SCORE: 75
+ROUGE_SCORE: 0.5263157844875347
+METEOR_SCORE: 0.48478260869565226
+
+76
+argument:
+school uniforms ensure a standard dress code that prohibits revealing clothing and adds a degree of order and cleanliness to the learning environment.
+target:
+School uniforms encourage discipline or focus on learning
+predict:
+School uniforms ensure a standard dress code across students.
+Matrices:
+BLEU_SCORE: 8.392229812593097
+BERT_SCORE: 0.9094443917274475
+LENGTH_SCORE: 61
+ROUGE_SCORE: 0.23529411266435996
+METEOR_SCORE: 0.22865853658536583
+
+77
+argument:
+human cloning will provide necessary organs when there are few resources
+target:
+Cloning can be used for organ replication
+predict:
+Human cloning can potentially produce organs for transplant.
+Matrices:
+BLEU_SCORE: 5.669791110976001
+BERT_SCORE: 0.9156709313392639
+LENGTH_SCORE: 60
+ROUGE_SCORE: 0.266666661688889
+METEOR_SCORE: 0.4383680555555556
+
+78
+argument:
+it is a symbol of our country and stands for important things and should be protected.
+target:
+Flags are important symbols that should be respected
+predict:
+The symbol signifies important values or principles
+Matrices:
+BLEU_SCORE: 5.693025330278465
+BERT_SCORE: 0.8786185383796692
+LENGTH_SCORE: 51
+ROUGE_SCORE: 0.13333332835555575
+METEOR_SCORE: 0.12658227848101264
+
+79
+argument:
+celibacy before marriage protects young people from disease
+target:
+Removing celibacy could lead to sexually reckless acts
+predict:
+Practicing celibacy can contribute to a risk-free sexual health, thereby preventing the transmission of diseases among young individuals.
+Matrices:
+BLEU_SCORE: 2.276859592073037
+BERT_SCORE: 0.8860570788383484
+LENGTH_SCORE: 137
+ROUGE_SCORE: 0.15384614958579892
+METEOR_SCORE: 0.16304347826086957
+
+80
+argument:
+people should have the right to protect themselves and their property against criminals.
+target:
+Gun ownership promotes self protection
+predict:
+Property protection is an essential right that everyone should possess
+Matrices:
+BLEU_SCORE: 4.196114906296549
+BERT_SCORE: 0.8759869337081909
+LENGTH_SCORE: 70
+ROUGE_SCORE: 0.13333332888888905
+METEOR_SCORE: 0.09090909090909091
+
+81
+argument:
+cannabis legalization could be a lucrative source of revenue
+target:
+Cannabis is financially beneficial
+predict:
+Cannabis legalization can potentially bring in significant economic benefits
+Matrices:
+BLEU_SCORE: 4.767707020457095
+BERT_SCORE: 0.8904663324356079
+LENGTH_SCORE: 76
+ROUGE_SCORE: 0.15384614958579892
+METEOR_SCORE: 0.11111111111111112
+
+82
+argument:
+prohibiting women in combat is sexist. women are just as capable of men in combat with proper training.
+target:
+Women can overcome differences and be just as capable in combat
+predict:
+Women are believed to be equally capable as men in combat situations when given appropriate training.
+Matrices:
+BLEU_SCORE: 6.019608768705656
+BERT_SCORE: 0.908183753490448
+LENGTH_SCORE: 101
+ROUGE_SCORE: 0.44444443961591223
+METEOR_SCORE: 0.36757662835249044
+
+83
+argument:
+prostitution has correlations to organized crime, especially human trafficking. this casts doubt on a prostitute's consent.
+target:
+Legalizing sex work will increase immoral behaviour like pimping/organized crime/trafficking
+predict:
+Prostitution is closely linked with organized crime, particularly human trafficking.
+Matrices:
+BLEU_SCORE: 6.344849033136089
+BERT_SCORE: 0.8751281499862671
+LENGTH_SCORE: 84
+ROUGE_SCORE: 0.0
+METEOR_SCORE: 0.0
+
+84
+argument:
+We should subsidize not vocational education because it trades off with more urgent needs the state can meet, like homeless shelters and food banks.
+target:
+subsidizing vocational education diverts money from more worthy causes
+predict:
+Subsidizing vocational education might compromise more urgent state needs
+Matrices:
+BLEU_SCORE: 10.552670315936318
+BERT_SCORE: 0.9024819731712341
+LENGTH_SCORE: 73
+ROUGE_SCORE: 0.3333333283333334
+METEOR_SCORE: 0.41666666666666663
+
+85
+argument:
+We need Guantanamo Bay to stay open in order to detain and interrogate enemy combatants in support of our war efforts.
+target:
+The Guantanamo bay detention camp is essential to gain intelligence
+predict:
+Guantanamo Bay is needed for the detention of enemy combatants
+Matrices:
+BLEU_SCORE: 5.522397783539471
+BERT_SCORE: 0.8956592082977295
+LENGTH_SCORE: 62
+ROUGE_SCORE: 0.2999999950000001
+METEOR_SCORE: 0.372
+
+86
+argument:
+capital punishment acts as the ultimate deterrent - serious crime levels will drop due to the risk of paying the ultimate price.
+target:
+The death penalty prevents crimes
+predict:
+The fear of ultimate punishment, death, can potentially reduce serious crime levels.
+Matrices:
+BLEU_SCORE: 3.1251907639724417
+BERT_SCORE: 0.8879073262214661
+LENGTH_SCORE: 84
+ROUGE_SCORE: 0.11764705467128042
+METEOR_SCORE: 0.25
+
+87
+argument:
+we and learn as much as we can. need to continue to explore outer space
+target:
+Space exploration unravels information about the universe
+predict:
+The need for continued exploration of outer space is emphasized
+Matrices:
+BLEU_SCORE: 4.196114906296549
+BERT_SCORE: 0.8675944805145264
+LENGTH_SCORE: 63
+ROUGE_SCORE: 0.11764705397923896
+METEOR_SCORE: 0.2054794520547945
+
+88
+argument:
+we should not abandon the use of school uniform because children won't be compared with other children on what they are wearing when everyone is wearing the same thing
+target:
+School uniforms create a sense of equality/unity
+predict:
+School uniforms prevent comparisons and competition among children based on their clothes.
+Matrices:
+BLEU_SCORE: 6.178110636313396
+BERT_SCORE: 0.9084434509277344
+LENGTH_SCORE: 90
+ROUGE_SCORE: 0.2105263111357342
+METEOR_SCORE: 0.24671052631578952
+
+89
+argument:
+voting is a privilege, but not something that should be forced. if someone doesn't like either candidate why should they be forced to choose?
+target:
+Citizens have a right not to vote
+predict:
+The query raises the issue of forcing someone to vote when they don't prefer any of the candidates.
+Matrices:
+BLEU_SCORE: 4.048892532133102
+BERT_SCORE: 0.8754323124885559
+LENGTH_SCORE: 99
+ROUGE_SCORE: 0.17391303924385643
+METEOR_SCORE: 0.2259036144578313
+
+90
+argument:
+we should introduce compulsory voting because each citizen has a right to voice their opinion on who is leading this country.
+target:
+People have an obligation to vote
+predict:
+The right of citizens to express their opinion on leadership is essential
+Matrices:
+BLEU_SCORE: 3.3864985683445354
+BERT_SCORE: 0.8642653822898865
+LENGTH_SCORE: 73
+ROUGE_SCORE: 0.11111110666666683
+METEOR_SCORE: 0.07575757575757576
+
+91
+argument:
+We should not adopt atheism as government should not be able to dictate people's religious freedom.
+target:
+Atheism discriminates against religious people / violates freedom of religion
+predict:
+Implication of government infringing on religious freedom
+Matrices:
+BLEU_SCORE: 5.630400552901077
+BERT_SCORE: 0.8777334690093994
+LENGTH_SCORE: 57
+ROUGE_SCORE: 0.3529411716262976
+METEOR_SCORE: 0.15463917525773196
+
+92
+argument:
+Legalizing prostitution would increase global human trafficking and violent crime.
+target:
+Legalizing sex work will increase immoral behaviour like pimping/organized crime/trafficking
+predict:
+Legalization of sex work can potentially contribute to the rise of global human trafficking and violence.
+Matrices:
+BLEU_SCORE: 5.061867434834413
+BERT_SCORE: 0.903940737247467
+LENGTH_SCORE: 105
+ROUGE_SCORE: 0.15999999520000013
+METEOR_SCORE: 0.2388369678089304
+
+93
+argument:
+by copying something you can not get a pure copy. each copy that is made is worse then the other meaning that no one knows what can happen with cloning.
+target:
+Cloning is not understood enough yet
+predict:
+Copying anything does not generate a pure replica, there are always discrepancies.
+Matrices:
+BLEU_SCORE: 2.8398387225677895
+BERT_SCORE: 0.8452574610710144
+LENGTH_SCORE: 82
+ROUGE_SCORE: 0.11111110666666683
+METEOR_SCORE: 0.07352941176470588
+
+94
+argument:
+many homeschool kids are smarter and learn more than kids in public school.
+target:
+The home is a good learning environment
+predict:
+A claim is being made about the effectiveness and quality of learning in homeschooling.
+Matrices:
+BLEU_SCORE: 3.1251907639724417
+BERT_SCORE: 0.8789892792701721
+LENGTH_SCORE: 87
+ROUGE_SCORE: 0.19047618603174613
+METEOR_SCORE: 0.25641025641025644
+
+95
+argument:
+it impairs your mind so it should be illegal
+target:
+Cannabis harms the body
+predict:
+The user suggests that the impairment justifies making the element or substance illegal
+Matrices:
+BLEU_SCORE: 3.0890553181566975
+BERT_SCORE: 0.8621818423271179
+LENGTH_SCORE: 87
+ROUGE_SCORE: 0.12499999625000012
+METEOR_SCORE: 0.10204081632653061
+
+96
+argument:
+vaccination should exclude children to avoid the side effects that can appear on them.
+target:
+Routine child vaccinations, or their side effects, are dangerous
+predict:
+Potential side effects of vaccination on children are a concern.
+Matrices:
+BLEU_SCORE: 8.29519350710986
+BERT_SCORE: 0.9133099913597107
+LENGTH_SCORE: 64
+ROUGE_SCORE: 0.21052631080332423
+METEOR_SCORE: 0.3381818181818182
+
+97
+argument:
+women are not as physically and mentally strong as men, and thus, should not be relied upon in armed combat.
+target:
+Men are better suited to combat roles than women
+predict:
+It suggests that women may not be suitable for armed combat scenarios.
+Matrices:
+BLEU_SCORE: 3.673526562988939
+BERT_SCORE: 0.917342483997345
+LENGTH_SCORE: 70
+ROUGE_SCORE: 0.19047618557823143
+METEOR_SCORE: 0.10638297872340426
+
+98
+argument:
+there are many more practical realms of scientific inquiry that need our support more urgently.
+target:
+There are issues more important to fund than space exploration
+predict:
+The statement implies the existence of other scientific fields that are arguably more important than the currently prioritized ones.
+Matrices:
+BLEU_SCORE: 4.553719184146073
+BERT_SCORE: 0.877362072467804
+LENGTH_SCORE: 132
+ROUGE_SCORE: 0.285714281122449
+METEOR_SCORE: 0.2869318181818182
+
+99
+argument:
+guantanamo bay is a place of victimization of human rights, unfair detention to some innocent prisoners that have been unfairly and unjustly racially profiled.
+target:
+unjust treatment/tactics are used in the Guantanamo bay detention camp
+predict:
+Unfair detention and imprisonment of innocent individuals is a prominent issue at Guantanamo Bay.
+Matrices:
+BLEU_SCORE: 3.1251907639724417
+BERT_SCORE: 0.8823129534721375
+LENGTH_SCORE: 97
+ROUGE_SCORE: 0.1666666618055557
+METEOR_SCORE: 0.3005952380952382
+

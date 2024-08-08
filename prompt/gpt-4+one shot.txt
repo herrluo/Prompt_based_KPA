@@ -1,0 +1,800 @@
+0
+argument:
+a cure or treatment may be discovered shortly after having ended someone's life unnecessarily.
+target:
+Assisted suicide should not be allowed because many times people can still get better
+predict:
+Euthanasia or assisted suicide could prematurely end lives before potential treatments or cures are discovered.
+
+1
+argument:
+A patient should be able to decide when they have had enough "care".
+target:
+People should have the freedom to choose to end their life
+predict:
+Patient autonomy is crucial in decisions regarding end-of-life care.
+
+2
+argument:
+a person has the right to end their suffering and if somebody takes pity on them and chooses to help, that person should not be punished.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be accepted as it gives individuals the right to end their own suffering and those who assist them shouldn't be penalized.
+
+3
+argument:
+a person should have the dignity to choose how they die
+target:
+People should have the freedom to choose to end their life
+predict:
+Assisted suicide should be allowed as it empowers individuals to decide their end-of-life choices.
+
+4
+argument:
+a person should have the right to be able to choose if they want to live or die
+target:
+People should have the freedom to choose to end their life
+predict:
+People should have the autonomy to make decisions about their own life and death.
+
+5
+argument:
+a person should have the right to die on their own terms
+target:
+People should have the freedom to choose to end their life
+predict:
+The legality of assisted suicide respects individual autonomy and personal choice in ending one's own life.
+
+6
+argument:
+a person should not be forced into having to live their lives suffering, when death is already enevitable
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be allowed to prevent prolonged suffering when death is inevitable.
+
+7
+argument:
+Allowing assisted suicide would enable greedy relatives to take advantage of ill relatives for their own financial gain
+target:
+Assisted suicide allows people to solicit someone to die to their own benefit
+predict:
+Assisted suicide can be misused for financial motives.
+
+8
+argument:
+an assisted suicide is just another way to murder a person. it does not matter if the person asked to be killed the person who does the killing has put one to death.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is equated with murder, regardless of the person's consent.
+
+9
+argument:
+and who defines reasonable certainty, how many people evicted by medicine has regained health thanks to an alternative treatment or a medical advance, ending life is not the solution, much less involving others
+target:
+Assisted suicide should not be allowed because many times people can still get better
+predict:
+Assisted suicide is questionable because there are often cases where people recover through alternative treatments or medical advancements, hence involving others in ending life is inappropriate.
+
+10
+argument:
+anyone who contributes to ending a life should be punished
+target:
+Assisted suicide is akin to killing someone
+predict:
+The act of assisting or contributing to end a life is punishable and should be strictly prohibited.
+
+11
+argument:
+asisted suicide can be abused by those who want to benefit from taking advantage of a sick or ill relative and thus should not be allowed.
+target:
+Assisted suicide allows people to solicit someone to die to their own benefit
+predict:
+Assisted suicide may potentially be misused for personal gains, making it unethical and harmful.
+
+12
+argument:
+assisted suicide allows for a person who is sick and fully understanding what is done to end their pain when no quality of life can be assured
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be permitted as it enables terminally ill individuals, fully cognizant of their condition, to cease their suffering when there's no prospect of a quality life.
+
+13
+argument:
+assisted suicide allows for a person who is sick and fully understanding what is done to end their pain when no quality of life can be assured
+target:
+The terminally ill would benefit from assisted suicide
+predict:
+Assisted suicide should be permitted as it can help terminally-ill patients end their suffering, especially when there's no certainty of life quality improvement.
+
+14
+argument:
+assisted suicide allows one to end terminal pain and suffering and should be allowed to continue.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide can provide an end to terminal pain and suffering, hence should be legal.
+
+15
+argument:
+assisted suicide allows one to end terminal pain and suffering and should be allowed to continue.
+target:
+The terminally ill would benefit from assisted suicide
+predict:
+Assisted suicide should be legalized as it provides a way to end terminal pain and suffering.
+
+16
+argument:
+assisted suicide allows people who have terrible health conditions to die with dignity. if assisted suicide is a crime they may have to endure many more years living in agony.
+target:
+Assisted suicide gives dignity to the person that wants to commit it
+predict:
+Assisted suicide should be permitted as it enables individuals with severe health conditions to choose a dignified death over prolonged suffering.
+
+17
+argument:
+assisted suicide allows people who have terrible health conditions to die with dignity. if assisted suicide is a crime they may have to endure many more years living in agony.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be permitted as it provides individuals suffering from severe health conditions the opportunity to pass with dignity, instead of forcing them to live in pain.
+
+18
+argument:
+assisted suicide allows terminally ill people to die with dignity and should not be criminalized
+target:
+Assisted suicide gives dignity to the person that wants to commit it
+predict:
+Assisted suicide should be legalized as it provides a dignified death for terminally ill patients.
+
+19
+argument:
+assisted suicide allows terminally ill persons to choose when to die and do it with dignity. it lets people decide not to live in a state of pain and misery and choose to pass on with human intervention.
+target:
+Assisted suicide gives dignity to the person that wants to commit it
+predict:
+Assisted suicide provides terminally ill individuals with the option to choose a dignified death and avoid prolonged suffering.
+
+20
+argument:
+assisted suicide allows terminally ill persons to choose when to die and do it with dignity. it lets people decide not to live in a state of pain and misery and choose to pass on with human intervention.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be allowed as it gives terminally ill people the choice to avoid prolonged suffering and die with dignity.
+
+21
+argument:
+Assisted suicide and the right to live with dignity is a human right and should be made legal everywhere. It is a human right to choose not to suffer with a terminal illness.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be legalized as it allows individuals with terminal illnesses the right to choose to end their suffering.
+
+22
+argument:
+assisted suicide could be misused by people who want their weaker partner to die. people could be encouraged to take their own life before they really want to.
+target:
+Assisted suicide allows people to solicit someone to die to their own benefit
+predict:
+Assisted suicide runs the risk of abuse and could potentially pressure vulnerable individuals into ending their life prematurely.
+
+23
+argument:
+assisted suicide gives people control over their life in terrible circumstances. it allows them dignity in death rather than living in terrible conditions for many years.
+target:
+Assisted suicide gives dignity to the person that wants to commit it
+predict:
+Assisted suicide should be allowed as it gives people autonomy over their lives, allowing them to die with dignity in dire circumstances.
+
+24
+argument:
+assisted suicide gives people control over their life in terrible circumstances. it allows them dignity in death rather than living in terrible conditions for many years.
+target:
+People should have the freedom to choose to end their life
+predict:
+Assisted suicide provides people with autonomy and preserves their dignity in adverse circumstances.
+
+25
+argument:
+assisted suicide goes directly against the oath taken by doctors to do no harm. suicide is harm. there is no oversight when giving the patients the drugs. they are prescribed and the patient faces death alone.
+target:
+Assisted suicide violates the doctor's role
+predict:
+Assisted suicide contradicts the Hippocratic Oath for doctors and lacks sufficient supervision, leaving patients to face death alone.
+
+26
+argument:
+assisted suicide helps terminally ill people end their suffering
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide can provide relief for terminally ill individuals by enabling them to end their suffering.
+
+27
+argument:
+Assisted suicide helps those who are in pain due to a devastating disease end their own lives on their own terms.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be allowed as it provides a humane end for those suffering from severe diseases.
+
+28
+argument:
+assisted suicide involves murdering someone which is illegal and should be treated as such.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is akin to murder and should be illegal.
+
+29
+argument:
+assisted suicide is a blessing not a crime. a person who wants to be assisted in this is in great pain or has no ability to be cured, let someone give the suffering the chance to end it.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide can be viewed positively as it can provide relief for those in unbearable pain or incurable conditions.
+
+30
+argument:
+assisted suicide is a crime and people involved should be sent to prison
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is considered illegal and punishable by law.
+
+31
+argument:
+Assisted suicide is a criminal offence as it centers on the intentional death of a human being.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is morally wrong and should be legally prohibited due to the value of human life.
+
+32
+argument:
+assisted suicide is a form of murder and should be a criminal offense
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide should be considered a crime as it equates to murder.
+
+33
+argument:
+assisted suicide is a form of murder and should be treated as a crime
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is morally wrong and should be legally punished as a crime.
+
+34
+argument:
+assisted suicide is a form of murder and should never be allowed.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is equated to murder and hence should be prohibited.
+
+35
+argument:
+assisted suicide is a great help for people who suffer from deadly diseases and are on their deathbed
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be permitted because it provides relief to people suffering from terminal illnesses.
+
+36
+argument:
+assisted suicide is a human right and would spare the terminally i'll pain.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be allowed as it is a human right and can alleviate suffering of terminally ill patients.
+
+37
+argument:
+assisted suicide is a humane and caring way to allow a person to help another person whose life is too difficult to be lived properly in any manner, so it should not be criminalized.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be legalized as it allows individuals to end their suffering.
+
+38
+argument:
+assisted suicide is a lot better than letting a person suffer until end of life.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be permitted as it can alleviate unnecessary suffering until end of life.
+
+39
+argument:
+assisted suicide is a personal choice on how a person wants to live his or her life and therefore should be legal by the constitution
+target:
+People should have the freedom to choose to end their life
+predict:
+Assisted suicide should be legalized as it is an individual's personal choice.
+
+40
+argument:
+assisted suicide is against the oath all doctors take.
+target:
+Assisted suicide violates the doctor's role
+predict:
+Assisted suicide conflicts with the ethical commitments of healthcare professionals.
+
+41
+argument:
+assisted suicide is another form of homicide
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is equated to murder, implying it's not morally acceptable.
+
+42
+argument:
+assisted suicide is another type of murder.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is considered as a form of homicide.
+
+43
+argument:
+assisted suicide is equivalent to murder and should be treated as such.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is comparable to murder and must be considered a criminal act.
+
+44
+argument:
+assisted suicide is just another form of murder. murder is illegal so assisted suicide must be illegal as well.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide should be illegal since it is considered a form of murder.
+
+45
+argument:
+assisted suicide is just another word for murder.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is considered equivalent to murder.
+
+46
+argument:
+assisted suicide is just helping a person kill a person which seems like i should be a criminal offence.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide can be viewed as a form of homicide and may be considered a criminal act.
+
+47
+argument:
+assisted suicide is just like accessory to murder
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is considered equivalent to participating in murder.
+
+48
+argument:
+Assisted suicide is just murder by another name and it should be punished accordingly.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is morally equivalent to murder and should be legally treated as such.
+
+49
+argument:
+assisted suicide is killing by another name - it is far too open to abuse by those with a vested interest, since it is often impossible to accurately interpret the intentions of the individual being 'assisted'.
+target:
+Assisted suicide allows people to solicit someone to die to their own benefit
+predict:
+Assisted suicide is prone to misuse and can be influenced by people with selfish interests, making it ethically questionable.
+
+50
+argument:
+assisted suicide is killing by another name - it is far too open to abuse by those with a vested interest, since it is often impossible to accurately interpret the intentions of the individual being 'assisted'.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide risks exploitation and misinterpretation of the individual's intentions, making it susceptible to abuse.
+
+51
+argument:
+assisted suicide is killing someone even if it is at their request
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide involves deliberately ending a person's life, even if they personally requested it.
+
+52
+argument:
+assisted suicide is murder and therefore illegal
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is equated to murder and is thus seen as illegal.
+
+53
+argument:
+assisted suicide is murder of another and should be considered a criminal offence.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is equated with murder and should be penalized by law.
+
+54
+argument:
+assisted suicide is murder, the doctor is giving the weapon to the person with the sole purpose of death.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is equivalent to murder as it involves the intentional act of causing death.
+
+55
+argument:
+assisted suicide is necessary in our modern world full of people dealing with pain and sorrow
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be accepted as it can provide relief to those suffering from immense pain.
+
+56
+argument:
+assisted suicide is not only immoral but is also a form of murder and should be a criminal offence.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide should be illegal as it is equivalent to murder and immoral.
+
+57
+argument:
+assisted suicide is nothing but murder. you are giving a human the ability to legally kill another. this should be stopped. no person should be allowed to cause a death of another.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide is equivalent to legalizing murder and should not be allowed as it permits one person to end another's life.
+
+58
+argument:
+assisted suicide is nothing short of murder and it should be a criminal offence.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide should be considered as murder and should be legally punished.
+
+59
+argument:
+assisted suicide is really just another word for murder or homicide,
+target:
+Assisted suicide is akin to killing someone
+predict:
+Opposition to assisted suicide stems from the belief that it equates to murder or homicide.
+
+60
+argument:
+assisted suicide is still one person essentially killing another
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide can be viewed as one person directly causing the death of another.
+
+61
+argument:
+assisted suicide is the same as murder and therefore should be illegal.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide should be illegal as it is akin to murder.
+
+62
+argument:
+assisted suicide is too dangerous as if someone is weak and feeble a manipulative person could encourage them to kill themselves when they do not really want to.
+target:
+Assisted suicide allows people to solicit someone to die to their own benefit
+predict:
+Assisted suicide could be exploited by manipulative individuals, leading to the death of those who may not truly desire it.
+
+63
+argument:
+assisted suicide is unethical how do we know that the person who is assisting the suicide hasnt got something to gain from the death of the other person
+target:
+Assisted suicide allows people to solicit someone to die to their own benefit
+predict:
+Assisted suicide may be susceptible to manipulation or personal gain, posing ethical concerns.
+
+64
+argument:
+Assisted suicide should be a crime to prevent greedy individuals from killing their family member to get their money and property
+target:
+Assisted suicide allows people to solicit someone to die to their own benefit
+predict:
+Assisted suicide needs to be illegal to prevent potential exploitation for personal gain such as inheritance.
+
+65
+argument:
+Assisted suicide should be a criminal offence as if the person cannot make their own decisions and actions then it would be impossible to know if the person helping wasn't just murdering them.
+target:
+People who are ill do not have clear judgement and are in need of help
+predict:
+Criminalizing assisted suicide would prevent potential exploitations and protect vulnerable individuals who may not be in a position to express their true will.
+
+66
+argument:
+assisted suicide should be a criminal offence as it is another form of murder
+target:
+Assisted suicide is akin to killing someone
+predict:
+Making assisted suicide illegal could potentially prevent murders disguised as assisted suicides.
+
+67
+argument:
+assisted suicide should be a criminal offence because it causes the death of a human being just the same as if taken by a criminal.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide should be illegal as it is equivalent to murder.
+
+68
+argument:
+assisted suicide should be a criminal offence because it would be very easy to murder a vulnerable relative in order to get an inheritance.
+target:
+Assisted suicide allows people to solicit someone to die to their own benefit
+predict:
+Criminalizing assisted suicide can prevent potential abuse and exploitation of vulnerable individuals for personal gain.
+
+69
+argument:
+assisted suicide should be a criminal offence because killing is wrong whether it is willingly or not
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide should be considered unlawful as it involves the act of taking a life, even if willingly done.
+
+70
+argument:
+assisted suicide should be a criminal offence because killing someone is wrong even if they want you to do it
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide should be illegal because it involves taking a life, which is morally incorrect, regardless of the person's consent.
+
+71
+argument:
+assisted suicide should be a criminal offence because no one has a right to take another persons life or to help them
+target:
+People do not have the right to self-harm/harm others
+predict:
+Assisted suicide should be illegal as it infringes on the principle of respecting human life.
+
+72
+argument:
+assisted suicide should be a criminal offence because pain makes people do some extreme things, but it shouldn't include death.
+target:
+People who are ill do not have clear judgement and are in need of help
+predict:
+Criminalizing assisted suicide is necessary as suffering can lead people to desperate measures, including the extreme step of ending their own life.
+
+73
+argument:
+assisted suicide should be a criminal offence because people shouldn't be able to help murder others
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide should be illegal because it's essentially helping someone to commit murder.
+
+74
+argument:
+assisted suicide should be a criminal offence because that is murder
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide should be illegal as it is equated to murder.
+
+75
+argument:
+assisted suicide should be a criminal offence because the person is basically killing the other person.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide equates to murder and should be considered illegal.
+
+76
+argument:
+assisted suicide should be a criminal offence because what if the person being assisted was in only a bad emotional state which could be cured with professional health.
+target:
+People who are ill do not have clear judgement and are in need of help
+predict:
+Assisted suicide should be criminalized to protect individuals with curable emotional distress.
+
+77
+argument:
+assisted suicide should be a criminal offense because at the end of the day somebody is dead and you had a hand in it.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide should be illegal because it involves participating in someone's death.
+
+78
+argument:
+assisted suicide should be a criminal offense because death is death, at the end of the day someone is dead and you had a hand in it.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisting suicide should be illegal as it involves directly contributing to someone's death.
+
+79
+argument:
+assisted suicide should be a criminal offense because it's just a different name for murder
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide should be criminalized as it is equivalent to murder.
+
+80
+argument:
+Assisted suicide should be a form of murder or pre meditated murder. People should die naturally not by suicide.
+target:
+Assisted suicide is akin to killing someone
+predict:
+Assisted suicide equates to murder and undermines the natural process of life and death.
+
+81
+argument:
+assisted suicide should be allowed because it allows people with terminal illnesses to die with dignity before suffering a long and painful death.
+target:
+Assisted suicide gives dignity to the person that wants to commit it
+predict:
+Assisted suicide should be permitted because it can provide a dignified and less painful end for those suffering from terminal illnesses.
+
+82
+argument:
+assisted suicide should be allowed in certain circumstances such as when a person is suffering from severe illnesses.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide is permissible if the individual is dealing with extreme medical conditions.
+
+83
+argument:
+assisted suicide should be criminalized as no human being has the right to determine whether another human being lives or dies
+target:
+People do not have the right to self-harm/harm others
+predict:
+Criminalization of assisted suicide is necessary because individual's life or death decision should not be controlled by others.
+
+84
+argument:
+assisted suicide should be made legal many people suffer with debilitating and painful illnesses and should be counselled and supported to make an informed choice
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be legalized to allow those suffering from severe, painful illnesses to make an educated decision about their own life.
+
+85
+argument:
+assisted suicide should be made legal so that those who have a terminal illness or are in uncurable pain can make an informed choice to end their lives with dignity surrounded by those they love.
+target:
+Assisted suicide gives dignity to the person that wants to commit it
+predict:
+Assisted suicide should be legalized to provide a humane and respectful end for terminally ill or chronically pained individuals.
+
+86
+argument:
+assisted suicide should no be considered a criminal offence because a person could really be suffering and in pain and to let them suffer is heartless and inhumane
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be decriminalized as it can alleviate suffering and is a humane option.
+
+87
+argument:
+assisted suicide should not be a crime. if someone is suffering on a daily basis from something that they are going to die from anyway, they should be allowed to die on their own terms.
+target:
+People should have the freedom to choose to end their life
+predict:
+Assisted suicide should be permitted as it allows people with terminal or incurable illnesses to die with dignity.
+
+88
+argument:
+assisted suicide should not be a criminal defense because in some cases, like people who have terminal cancer, you are doing them a mercy and saving them from suffering.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide can be seen as a merciful act for terminal patients to end their suffering.
+
+89
+argument:
+assisted suicide should not be a criminal defense because in some cases, like people who have terminal cancer, you are doing them a mercy and saving them from suffering.
+target:
+The terminally ill would benefit from assisted suicide
+predict:
+Assisted suicide could be viewed as an act of mercy, particularly for those with terminal illnesses, therefore it should not be criminalized.
+
+90
+argument:
+Assisted suicide should not be a criminal offence as people with no quality of life should not have to suffer indefinitely and their trusted helper should not be a criminal for helping them.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be legalized as it would bring relief for those suffering and should not result in criminal charges for the involved party.
+
+91
+argument:
+assisted suicide should not be a criminal offence because a person should be able to decide how and when they want to die.
+target:
+People should have the freedom to choose to end their life
+predict:
+Assisted suicide should be decriminalized to uphold a person's autonomy over their own life and death decisions.
+
+92
+argument:
+assisted suicide should not be a criminal offence because if someone doesn't want to live they shouldn't be forced to
+target:
+People should have the freedom to choose to end their life
+predict:
+Assisted suicide should be decriminalized as it supports the individual's freedom of choice over their own life.
+
+93
+argument:
+assisted suicide should not be a criminal offence because it helps to ease the suffering of those who will never recover from their illnesses or injuries.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be decriminalized because it may provide relief for people suffering from incurable diseases or injuries.
+
+94
+argument:
+assisted suicide should not be a criminal offence because it is sometimes the only way a person suffering a debilitating medical condition such as motor neurone disease can end there life.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be decriminalized because it could provide a way out for those suffering from severe medical conditions.
+
+95
+argument:
+assisted suicide should not be a criminal offence, because if a loved one is terminally ill, it provides them with the opportunity to die with dignity rather than suffering until they die naturally.
+target:
+Assisted suicide gives dignity to the person that wants to commit it
+predict:
+Assisted suicide should be legalised for the dignity and relief of terminally ill patients.
+
+96
+argument:
+assisted suicide should not be a criminal offence, because if a loved one is terminally ill, it provides them with the opportunity to die with dignity rather than suffering until they die naturally.
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be decriminalized as it allows terminally ill patients to die with dignity instead of enduring prolonged suffering.
+
+97
+argument:
+assisted suicide should not be a criminal offense because if a person doesn't want to live, why should they be forced to
+target:
+People should have the freedom to choose to end their life
+predict:
+Assisted suicide should be decriminalized as it could be seen as respecting an individual's right to choose their fate.
+
+98
+argument:
+assisted suicide should not be a criminal offense because if someone is in enough pain and is sane enough to decide, they should have that choice.
+target:
+People should have the freedom to choose to end their life
+predict:
+Assisted suicide should be legal because people in immense pain should have the right to choose their fate.
+
+99
+argument:
+assisted suicide should not be a criminal offense because it helps people who are in constant pain due to a terminal illness
+target:
+Assisted suicide reduces suffering
+predict:
+Assisted suicide should be legal as it provides relief for people suffering from incurable and painful diseases.
+
